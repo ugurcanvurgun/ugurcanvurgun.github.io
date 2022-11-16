@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "a website about me and my research"
 title_separator          : "-"
-subtitle                 : language + cognition + code + machine learning
+subtitle                 : 
 name                     : "Uğurcan Vurgun"
 description              : "Personal website for Uğurcan Vurgun, a psycholinguist working on the interaction between language and cognition"
 url                      : "http://ugurcanvurgun.github.io/about"
