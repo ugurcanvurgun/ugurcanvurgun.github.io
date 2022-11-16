@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : language + cognition + code + machine learning
 name                     : "Uğurcan Vurgun"
 description              : "Personal website for Uğurcan Vurgun, a psycholinguist working on the interaction between language and cognition"
-url                      : "http://ugurcanvurgun.github.io"
+url                      : "http://ugurcanvurgun.github.io/about"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : ugurcanvurgun/ugurcanvurgun.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
