@@ -8,5 +8,6 @@ entries_layout: grid
 classes: wide
 ---
 
+<space>
 
-![image-center](/assets/images/picture2.jpg){: .align-center}
+<img align="center" src="/assets/images/picture2.jpg" alt="my research" style="width:200px;height:200px;">
