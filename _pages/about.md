@@ -18,6 +18,8 @@ I am a Ph.d. candidate in Linguistics working with <a href="https://www.langcogl
 <space>
 Before that, I had a B.A. degree in Business Administration from <a href="https://www.ku.edu.tr/en/">Koç University</a>. Following my undergraduate degree, I spent some time in the industry and managed large sales teams at <a href="https://www.unilever.com/">Unilever</a>. During this experience, I had the chance to get to know so many wonderful people all over Turkey, speaking many different languages and dialects. I am grateful to all of them, as they helped me find out that language is my real passion.<br>
 
+<br>
+<br>
 <space>
 
 <img align="left" src="/assets/images/picture1.jpg" alt="Ugurcan Vurgun" style="width:356px;height:200px; border:3px solid black">
