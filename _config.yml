@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Uğurcan Vurgun"
 title_separator          : "-"
 subtitle                 : 
-name                     : "Uğurcan Vurgun"
+name                     : "a psycholinguist's diary"
 description              : "Personal website for Uğurcan Vurgun, a psycholinguist working on the interaction between language and cognition"
 url                      : "http://ugurcanvurgun.github.io/about"
 baseurl                  : # the subpath of your site, e.g. "/blog"
