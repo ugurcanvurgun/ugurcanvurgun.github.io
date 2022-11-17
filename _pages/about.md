@@ -20,5 +20,4 @@ Before that, I had a B.A. degree in Business Administration from <a href="https:
 
 <space>
 
-
-![my_img](/assets/images/picture1.jpg){: .align-center}
+<img align="center" src="/assets/images/picture1.jpg" alt="Ugurcan Vurgun" style="width:700px;height:700px;">
