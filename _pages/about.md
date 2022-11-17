@@ -21,15 +21,15 @@ Before that, I had a B.A. degree in Business Administration from <a href="https:
 <br>
 <space>
 
-<img align="left" src="/assets/images/picture1.jpg" alt="Ugurcan Vurgun" style="width:356px;height:200px; border:5px solid black">
+<img align="left" src="/assets/images/picture1.jpg" alt="Ugurcan Vurgun" style="width:356px;height:200px; border:3px solid black">
 
-<img align="right" src="/assets/images/picture4.jpg" alt="Ugurcan Vurgun" style="width:356px;height:200px; border:5px solid black">
+<img align="right" src="/assets/images/picture4.jpg" alt="Ugurcan Vurgun" style="width:356px;height:200px; border:3px solid black">
 
 <br>
 <space>
 
-<img align="right" src="/assets/images/picture5.jpg" alt="Ugurcan Vurgun" style="width:356px;height:200px; border:5px solid black">
+<img align="right" src="/assets/images/picture5.jpg" alt="Ugurcan Vurgun" style="width:356px;height:200px; border:3px solid black">
 
-<img align="left" src="/assets/images/picture6.jpg" alt="Ugurcan Vurgun" style="width:356px;height:200px; border:5px solid black">
+<img align="left" src="/assets/images/picture6.jpg" alt="Ugurcan Vurgun" style="width:356px;height:200px; border:3px solid black">
 
 
