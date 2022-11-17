@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: 'News'
+    url: /news/
   - title: "About"
     url: /about/
   - title: "Research"
