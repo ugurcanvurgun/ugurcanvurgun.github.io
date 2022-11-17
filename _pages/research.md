@@ -10,4 +10,4 @@ classes: wide
 
 <space>
 
-<img align="center" src="/assets/images/picture2.jpg" alt="my research" style="width:400px;height:400px;">
+<img align="center" src="/assets/images/picture2.jpg" alt="my research" style="width:300px;height:300px;">
