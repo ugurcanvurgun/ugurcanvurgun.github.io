@@ -16,8 +16,13 @@ I am a Ph.d. candidate in Linguistics working with <a href="https://www.langcogl
 <p>I have an M.A. (Master of Arts) degree in Linguistics from <a href="https://linguistics.boun.edu.tr//">Boğaziçi University</a>, where I studied with <a href="https://linguistics.boun.edu.tr/mine-nakipoglu/">Dr. Mine Nakipoğlu</a> and <a href="https://linguistics.boun.edu.tr/sumru-ozsoy/">Dr. Sumru Özsoy</a> on the syntactic structure of focus particles in Turkish. 
 
 <space>
-Before that, I had a B.A. degree in Business Administration from <a href="https://www.ku.edu.tr/en/">Koç University</a>. Following my undergraduate degree, I spent some time in the industry and managed large sales teams at <a href="https://www.unilever.com/">Unilever</a>. During this experience, I had the chance to get to know so many wonderful people all over Turkey, speaking many different languages and dialects. I am grateful to all of them, as they helped me find out that language is my real passion.
+Before that, I had a B.A. degree in Business Administration from <a href="https://www.ku.edu.tr/en/">Koç University</a>. Following my undergraduate degree, I spent some time in the industry and managed large sales teams at <a href="https://www.unilever.com/">Unilever</a>. During this experience, I had the chance to get to know so many wonderful people all over Turkey, speaking many different languages and dialects. I am grateful to all of them, as they helped me find out that language is my real passion.<br>
 
-<space>
+<br>
+
 
 <img align="center" src="/assets/images/picture1.jpg" alt="Ugurcan Vurgun" style="width:200px;height:200px;">
+
+<img align="center" src="/assets/images/picture4.jpg" alt="Ugurcan Vurgun" style="width:200px;height:200px;">
+
+
