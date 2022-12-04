@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Exploring the Mind through Language"
 title_separator          : "-"
 subtitle                 : 
-name                     : "Uğurcan vurgun"
+name                     : "Uğurcan Vurgun"
 description              : "Personal website for Uğurcan Vurgun, a psycholinguist working on the interaction between language and cognition"
 url                      : "http://ugurcanvurgun.github.io/about"
 baseurl                  : # the subpath of your site, e.g. "/blog"
