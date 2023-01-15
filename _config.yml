@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Uğurcan Vurgun"
   avatar           : /assets/images/bio-photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "pronounced as [urjohn], language + cognition + code + machine learning"
+  bio              : "pronounced like [urjohn], language + cognition + code + machine learning"
   location         : "Philadelphia, PA"
   email            :
   links:
