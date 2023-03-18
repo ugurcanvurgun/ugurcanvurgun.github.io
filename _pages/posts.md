@@ -10,6 +10,6 @@ classes: wide
 
 March 2023
 <space>
-I will be presenting our joint work with Yue Ji and Anna Papafragou at HSP 2023 (the 36th Annual Conference on Human Sentence Processing). Our work is titled "Aspectual Processing and Event Perception". See you in Pittsburg between March 9-11!
+I presented our joint work with Yue Ji and Anna Papafragou at HSP 2023 (the 36th Annual Conference on Human Sentence Processing). Our work is titled "Aspectual Processing and Event Perception". 
 
 
