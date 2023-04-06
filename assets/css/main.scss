@@ -7,3 +7,14 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+a {
+    color: navy;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #1a1aff;
+    text-decoration: underline;
+  }
+  
