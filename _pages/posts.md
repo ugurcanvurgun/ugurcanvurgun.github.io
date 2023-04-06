@@ -1,7 +1,7 @@
 ---
 title: News
-layout: single
+layout: home
 author_profile: true
-permalink: /news/
+permalink: /posts/
 ---
 
