@@ -11,11 +11,15 @@ search: false
 a {
   color: #36454f !important; /* charcoal */
   text-decoration: none;
-  border-bottom: 2px solid #36454f; /* charcoal */
-  transition: border-bottom-color 0.2s ease-in-out;
+  transition: color 0.2s ease-in-out;
 }
 
 a:hover,
 a:focus {
-  border-bottom-color: #cc0000; /* red */
+  color: #cc0000; /* red */
+}
+
+
+.masthead a {
+  text-decoration: none;
 }
