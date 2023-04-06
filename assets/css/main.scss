@@ -5,8 +5,8 @@ search: false
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+@import "{{ site.theme }}/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "{{ site.theme }}"; // main partials
 
 @import "custom-variables";
-@import "minimal-mistakes";
+@import "{{ site.theme }}";
