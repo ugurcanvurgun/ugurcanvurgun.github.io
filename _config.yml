@@ -292,11 +292,4 @@ defaults:
       related: false
 
 
-sass:
-  load_paths:
-    - _sass
-    - _sass/minimal-mistakes
-
-theme: minimal-mistakes-jekyll
-
 
