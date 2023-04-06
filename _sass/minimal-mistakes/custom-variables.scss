@@ -8,5 +8,15 @@ $global-font-family:  "Georgia", serif;
 $base-font-size: 16px; // Equivalent to 12pt in print
 $small-font-size: $base-font-size * 0.875; // Smaller font size for captions and other small text
 
+// Custom link color
+$link-color: #333333;
+$link-hover-color: darken($link-color, 10%);
+
+// Example using dark gray:
+// $link-color: #333333;
+// $link-hover-color: darken($link-color, 10%);
+
+
+
 // Apply the custom font settings to the theme's base settings
 @import "minimal-mistakes/skins/default/variables";
