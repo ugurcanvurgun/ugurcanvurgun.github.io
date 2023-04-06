@@ -1,0 +1,12 @@
+// Custom font color
+$font-color: #000000; // Black color for text
+
+// Custom font family
+$global-font-family:  "Georgia", serif;
+
+// Custom font size
+$base-font-size: 16px; // Equivalent to 12pt in print
+$small-font-size: $base-font-size * 0.875; // Smaller font size for captions and other small text
+
+// Apply the custom font settings to the theme's base settings
+@import "minimal-mistakes/skins/default/variables";
