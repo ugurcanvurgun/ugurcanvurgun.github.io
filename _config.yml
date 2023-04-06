@@ -290,3 +290,10 @@ defaults:
       comments: # true
       share: false
       related: false
+
+
+sass:
+  load_paths:
+    - _sass
+    - _sass/minimal-mistakes
+
