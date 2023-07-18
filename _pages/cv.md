@@ -9,5 +9,5 @@ classes: wide
 ---
 
 
-Here is my <a href="/assets/images/Vurgun_Ugurcan_CV.pdf">CV</a>.
+Here is my academic <a href="/assets/images/Vurgun_Ugurcan_CV.pdf">CV</a>.
 
