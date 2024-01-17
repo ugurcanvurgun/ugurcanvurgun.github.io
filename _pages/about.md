@@ -11,7 +11,7 @@ classes: wide
 
 I am a Ph.D. candidate working with <a href="https://www.langcoglab.com/people">Dr. Anna Papafragou</a> at the <a href="https://www.ling.upenn.edu/">University of Pennsylvania</a>. I am interested in creating behavioral and computational models that could reveal the interaction between language and human cognitive systems. 
 <space>
-<p>I am a member of <a href="https://www.langcoglab.com/"> Language and Cognition Lab</a> and affiliated with <a href="https://mindcore.sas.upenn.edu"> MindCore</a> (Penn's hub for integrative study of mind),  and <a href="https://web.sas.upenn.edu/langscience/"> ILST</a> (Integrated Language Sciences and Technology).I am also
+<p>I am a member of <a href="https://www.langcoglab.com/"> Language and Cognition Lab</a> and affiliated with <a href="https://mindcore.sas.upenn.edu"> MindCore</a> (Penn's hub for integrative study of mind),  and <a href="https://web.sas.upenn.edu/langscience/"> ILST</a> (Integrated Language Sciences and Technology). I am also
 affiliated with <a href="https://ibi.med.upenn.edu/"> the Institute for Biomedical Informatics</a> at <a href="https://www.pennmedicine.org/"> Penn Medicine</a>.</p> 
 
 
