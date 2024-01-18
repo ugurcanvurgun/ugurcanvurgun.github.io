@@ -12,7 +12,7 @@ classes: wide
 
 - Cho, S., **Vurgun, U.**, Fusaroli, R., Ip, M., Pelella, M.R., Knox, A., Hauptmann, A., Covello, M., Madya, M., Lyons, M., Lee, A., Schillinger, S., Fulop, L., Russell, A., Hicks, G., Fiumara, J., Pandey, J., Tunç, B., Sariyanidi, V., Liberman, M., Schultz, R.T., & Parish-Morris, J. (2024). Autistic teens’ word choice differs from neurotypical peers and teens with attention-deficit/hyperactivity disorder (ADHD) in a natural conversation task. Poster presentation at Meeting on Language and Autism, Durham, NC.
 
-- Ip, M.H.K., Putnam, O.C., Cho, S., **Vurgun, U.**, Lyons, M., Knox, A., Hauptmann, A., Covello, M., Fulop, L., Russell, A., Walker, K., Miller, J., Fiumara, J., Fusaroli, R., Chatham, C., Cieri, C., Lee, A., Liberman, M., Schultz, R.T., & Parish-Morris, J. (2024). Does speech prosody differ in a socially unengaging task? Preliminary findings from autistic and non-autistic children’s verbal counting. Meeting on Language in Autism (MoLA), Durham, NC.
+- Ip, M.H.K., Putnam, O.C., Cho, S., **Vurgun, U.**, Lyons, M., Knox, A., Hauptmann, A., Covello, M., Fulop, L., Russell, A., Walker, K., Miller, J., Fiumara, J., Fusaroli, R., Chatham, C., Cieri, C., Lee, A., Liberman, M., Schultz, R.T., & Parish-Morris, J. (2024). Does speech prosody differ in a socially unengaging task? Preliminary findings from autistic and non-autistic children’s verbal counting. Meeting on Language in Autism, Durham, NC.
 
 - **Vurgun, U.**, Ji, Y., & Papafragou, A. (2023) Aspectual Processing and Event Perception. Talk presented at the 36th Annual Conference on Human Sentence Processing, University of Pittsburgh.
 
