@@ -38,7 +38,7 @@ classes: wide
 - University of Pennsylvania, Integrated Language Sciences and Technology Research Fund [2022, 2023].
 - University of Pennsylvania, GAPSA Research Travel Grant [2022].
 - University of Pennsylvania, SAS Dean's Travel Subvention [2022].
-- Bogazici University, Research Travel Grant [2019].ß
+- Bogazici University, Research Travel Grant [2019].
 
 <br/>
 
