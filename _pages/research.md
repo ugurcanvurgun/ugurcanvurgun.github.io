@@ -8,7 +8,6 @@ entries_layout: grid
 classes: wide
 ---
 
-
 - **Vurgun, U.**, Cho, S., Fusaroli, R., Ip, M., Pelella, M.R., Knox, A., Hauptmann, A., Covello, M., Madya, M., Lyons, M., Lee, A., Schillinger, S., Fulop, L., Adeniyi, H., Russell, A., Fiumara, J., Hicks, G., Anello, O., Walker, K., Tunç, B., Sariyanidi, E., Liberman, M., Schultz, R.T., & Parish-Morris, J. (2024). Automatic classification of autism using automatic speech recognition and large language models (LLMs). Poster presentation at Meeting on Language and Autism, Durham, NC.
 
 - Cho, S., **Vurgun, U.**, Fusaroli, R., Ip, M., Pelella, M.R., Knox, A., Hauptmann, A., Covello, M., Madya, M., Lyons, M., Lee, A., Schillinger, S., Fulop, L., Russell, A., Hicks, G., Fiumara, J., Pandey, J., Tunç, B., Sariyanidi, V., Liberman, M., Schultz, R.T., & Parish-Morris, J. (2024). Autistic teens’ word choice differs from neurotypical peers and teens with attention-deficit/hyperactivity disorder (ADHD) in a natural conversation task. Poster presentation at Meeting on Language and Autism, Durham, NC.
@@ -27,12 +26,11 @@ classes: wide
 
 - **Vurgun, U.** (2019) A lexical-typological approach explaining the limited existence of locative alternation in Turkish. 4th Workshop on Turkic and Languages in Contact with Turkic (Tu+4), NYU.
 
-
-<space>
+<br/>
 
 ## **Fellowships and Awards**
 
-<space>
+<br/>
     
 - SFARI Travel Award for Meeting on Language in Autism (MoLA) 2024
 
@@ -48,8 +46,6 @@ classes: wide
 
 - Bogazici University, Research Travel Grant [2019]
 
-<space>
-    
-<space>
+<br/>
 
 <img align="center" src="/assets/images/picture2.jpg" alt="my research" style="width:200px;height:200px;">
