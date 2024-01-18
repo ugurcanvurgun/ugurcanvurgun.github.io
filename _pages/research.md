@@ -30,7 +30,7 @@ classes: wide
 
 <space>
 
-## Fellowships and Awards
+## Fellowships and Awards ##
 
 - SFARI Travel Award for Meeting on Language in Autism (MoLA) 2024
 
