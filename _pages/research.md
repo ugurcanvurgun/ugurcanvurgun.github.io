@@ -30,8 +30,10 @@ classes: wide
 
 <space>
 
-## Fellowships and Awards ##
+## **Fellowships and Awards**
 
+<space>
+    
 - SFARI Travel Award for Meeting on Language in Autism (MoLA) 2024
 
 - The 48th Annual Boston University Conference On Language Development, Diversity Travel Award [2023]
