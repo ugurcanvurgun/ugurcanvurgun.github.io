@@ -14,17 +14,17 @@ classes: wide
 
 - Ip, M.H.K., Putnam, O.C., Cho, S., **Vurgun, U.**, Lyons, M., Knox, A., Hauptmann, A., Covello, M., Fulop, L., Russell, A., Walker, K., Miller, J., Fiumara, J., Fusaroli, R., Chatham, C., Cieri, C., Lee, A., Liberman, M., Schultz, R.T., & Parish-Morris, J. (2024). Does speech prosody differ in a socially unengaging task? Preliminary findings from autistic and non-autistic children’s verbal counting. Meeting on Language in Autism, Durham, NC.
 
-- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2023) Aspectual Processing and Event Perception. Talk presented at the 36th Annual Conference on Human Sentence Processing, University of Pittsburgh.
+- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2023). Aspectual Processing and Event Perception. Talk presented at the 36th Annual Conference on Human Sentence Processing, University of Pittsburgh.
 
-- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2023) Aspectual framing of events shifts online event apprehension. 98th Annual Meeting of the Linguistic Society of America, Denver.
+- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2023). Aspectual framing of events shifts online event apprehension. 98th Annual Meeting of the Linguistic Society of America, Denver.
 
-- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2022) Lexical Aspect Maps Onto Event Apprehension. 2nd Experiments in Linguistic Meaning Conference, University of Pennsylvania.
+- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2022). Lexical Aspect Maps Onto Event Apprehension. 2nd Experiments in Linguistic Meaning Conference, University of Pennsylvania.
 
-- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2022) Linguistic aspect constrains event apprehension. 44th Annual Meeting of the Cognitive Science Society, Toronto, Canada.
+- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2022). Linguistic aspect constrains event apprehension. 44th Annual Meeting of the Cognitive Science Society, Toronto, Canada.
 
-- **Vurgun, U.** (2020) Both locative alternation variants in Turkish are change-of-state predicates with ResultPs. 4th Conference of Central Asian Language and Linguistics, Indiana University.
+- **Vurgun, U.** (2020). Both locative alternation variants in Turkish are change-of-state predicates with ResultPs. 4th Conference of Central Asian Language and Linguistics, Indiana University.
 
-- **Vurgun, U.** (2019) A lexical-typological approach explaining the limited existence of locative alternation in Turkish. 4th Workshop on Turkic and Languages in Contact with Turkic (Tu+4), NYU.
+- **Vurgun, U.** (2019). A lexical-typological approach explaining the limited existence of locative alternation in Turkish. 4th Workshop on Turkic and Languages in Contact with Turkic (Tu+4), NYU.
 
 - **Vurgun, U.** (2019). The syntax of focus particles in Turkish. Unpublished master's thesis, Boğaziçi University. Advisors: Assoc. Prof. Hayriye Mine Nakipoğlu & Prof. A. Sumru Özsoy.
 
