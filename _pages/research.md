@@ -26,6 +26,9 @@ classes: wide
 
 - **Vurgun, U.** (2019) A lexical-typological approach explaining the limited existence of locative alternation in Turkish. 4th Workshop on Turkic and Languages in Contact with Turkic (Tu+4), NYU.
 
+- **Vurgun, U.** (2019). The syntax of focus particles in Turkish. Unpublished master's thesis, Boğaziçi University. Advisors: Assoc. Prof. Hayriye Mine Nakipoğlu & Prof. A. Sumru Özsoy.
+
+
 <br/>
 
 ## **Fellowships and Awards**
