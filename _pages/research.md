@@ -14,11 +14,11 @@ classes: wide
 
 - Ip, M.H.K., Putnam, O.C., Cho, S., **Vurgun, U.**, Lyons, M., Knox, A., Hauptmann, A., Covello, M., Fulop, L., Russell, A., Walker, K., Miller, J., Fiumara, J., Fusaroli, R., Chatham, C., Cieri, C., Lee, A., Liberman, M., Schultz, R.T., & Parish-Morris, J. (2024). Does speech prosody differ in a socially unengaging task? Preliminary findings from autistic and non-autistic children’s verbal counting. Meeting on Language in Autism, Durham, NC.
 
-- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2023). Aspectual Processing and Event Perception. Talk presented at the 36th Annual Conference on Human Sentence Processing, University of Pittsburgh.
+- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2023). Aspectual processing and event perception. Talk presented at the 36th Annual Conference on Human Sentence Processing, University of Pittsburgh.
 
 - **Vurgun, U.**, Ji, Y., & Papafragou, A. (2023). Aspectual framing of events shifts online event apprehension. 98th Annual Meeting of the Linguistic Society of America, Denver.
 
-- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2022). Lexical Aspect Maps Onto Event Apprehension. 2nd Experiments in Linguistic Meaning Conference, University of Pennsylvania.
+- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2022). Lexical aspect maps onto event apprehension. 2nd Experiments in Linguistic Meaning Conference, University of Pennsylvania.
 
 - **Vurgun, U.**, Ji, Y., & Papafragou, A. (2022). Linguistic aspect constrains event apprehension. 44th Annual Meeting of the Cognitive Science Society, Toronto, Canada.
 
@@ -41,7 +41,9 @@ classes: wide
 - University of Pennsylvania, Integrated Language Sciences and Technology Research Fund [2022, 2023].
 - University of Pennsylvania, GAPSA Research Travel Grant [2022].
 - University of Pennsylvania, SAS Dean's Travel Subvention [2022].
-- Bogazici University, Research Travel Grant [2019].
+- University of Pennsylvania, Benjamin Franklin Fellowship [2019-2024].
+- Boğaziçi University, Research Travel Grant [2019].
+- Koç University, Vehbi Koç Fellowship [2002-2007].
 
 <br/>
 
