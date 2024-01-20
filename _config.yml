@@ -20,7 +20,7 @@ title                    : "Exploring the Mind through Language"
 title_separator          : "-"
 subtitle                 : 
 name                     : "Uğurcan Vurgun"
-description              : "Personal website for Uğurcan Vurgun, a psycholinguist working on the interaction between language and cognition"
+description              : "Personal website for Uğurcan Vurgun, #language #cognition #NLP #AI #bioinformatics #autism"
 url                      : "http://ugurcanvurgun.github.io/about"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : ugurcanvurgun/ugurcanvurgun.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -38,7 +38,7 @@ comments:
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
-    num_posts            : # 5 (default)
+    num_posts            : # 6 (default)
     colorscheme          : dark # "light" (default), "dark"
   utterances:
     theme                : # "github-light" (default), "github-dark"
