@@ -13,7 +13,7 @@ I am a Ph.D. candidate working with <a href="https://www.langcoglab.com/people">
 <space>
 <p>I am a member of <a href="https://www.langcoglab.com/"> Language and Cognition Lab</a> and affiliated with <a href="https://mindcore.sas.upenn.edu"> MindCore</a> (Penn's hub for integrative study of mind),  and <a href="https://web.sas.upenn.edu/langscience/"> ILST</a> (Integrated Language Sciences and Technology). 
 <space>
-<p>In the<a href="https://web.sas.upenn.edu/trueswell-lab/"> Language Learning Lab</a> and I work with <a href="https://web.sas.upenn.edu/trueswell-lab/labmembers/trueswell/"> John Trueswell</a> on how symmetry is represented in language and cognition.
+<p>In the<a href="https://web.sas.upenn.edu/trueswell-lab/"> Language Learning Lab</a>, I work with <a href="https://web.sas.upenn.edu/trueswell-lab/labmembers/trueswell/"> John Trueswell</a> on how symmetry is represented in language and cognition.
 <space>
 <p>I am also
 affiliated with <a href="https://ibi.med.upenn.edu/"> the Institute for Biomedical Informatics</a> at <a href="https://www.pennmedicine.org/"> Penn Medicine</a> and collaborating with <a href="https://www.research.chop.edu/car/"> Center for Autism Research</a> at <a href="https://www.research.chop.edu/"> CHOP</a> (Children's Hospital of Philadelphia).</p> 
