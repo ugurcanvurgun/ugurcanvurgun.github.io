@@ -13,8 +13,9 @@ classes: wide
 
 ### University of Pennsylvania College of Liberal and Professional Studies (Penn LPS)
 
-- **Instructor**
+- **LING 0001 Introduction to Linguistics**
   - **Semester:** Summer 2023
+  - **Role:** Instructor
   - **Details:** Lecturer for the Introduction to Linguistics course, covering phonetics, phonology, morphology, syntax, semantics, pragmatics, computational linguistics, and psycholinguistics.
 
 ### University of Pennsylvania
