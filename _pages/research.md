@@ -16,7 +16,7 @@ classes: wide
 
 - **Vurgun, U.**, Ji, Y., & Papafragou, A. (2023). Aspectual processing and event perception. Talk presented at the 36th Annual Conference on Human Sentence Processing, University of Pittsburgh.
 
-- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2023). Aspectual framing of events shifts online event apprehension. 98th Annual Meeting of the Linguistic Society of America, Denver.
+- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2023). Aspectual framing of events shifts online event apprehension. 98th Annual Meeting of the Linguistic Society of America, Denver, CO.
 
 - **Vurgun, U.**, Ji, Y., & Papafragou, A. (2022). Lexical aspect maps onto event apprehension. 2nd Experiments in Linguistic Meaning Conference, University of Pennsylvania.
 
