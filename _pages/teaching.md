@@ -11,7 +11,7 @@ classes: wide
 
 ## Teaching Experience
 
-### University of Pennsylvania College of Liberal and Professional Studies (Penn LPS)
+### University of Pennsylvania College of Liberal and Professional Studies
 
 - **LING 0001 Introduction to Linguistics**
   - **Semester:** Summer 2023

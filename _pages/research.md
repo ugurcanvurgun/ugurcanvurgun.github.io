@@ -28,6 +28,9 @@ classes: wide
 
 - **Vurgun, U.** (2019). [The syntax of focus particles in Turkish](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=vjszP7PzV0HebcjFEvDfwDIpXSaDNUn7OEQD5coXrpndYVpqUdHpDoip_9A5rgQz). Unpublished master's thesis, Boğaziçi University. Advisors: Dr. H. Mine Nakipoğlu & Dr. A. Sumru Özsoy.
 
+- **Vurgun, U.** (2018). "Book Review - Contemporary Morphological Theories: A User’s Guide." Thomas W. Stewart, 2015. Edinburgh: Edinburgh University Press. 192 pages. ISBN 978 07 486 9268 2. *Journal of Linguistic Research*, 29(2), 129-137.
+
+
 <br/>
 
 ## **Fellowships and Awards**
