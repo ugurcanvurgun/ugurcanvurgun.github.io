@@ -49,6 +49,16 @@ classes: wide
 
 <br/>
 
+## **Reviewing**
+
+<br/>
+
+- Folia Linguistica.
+- CogSci (The Annual Conference of Cognitive Science Society).
+- Journal of Clinical and Translational Science.
+
+<br/>
+
 <div style="text-align:center;">
     <img src="/assets/images/picture2.jpg" alt="my research" style="width:200px;height:200px;">
 </div>
