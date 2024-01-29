@@ -10,7 +10,7 @@ classes: wide
 
 ![The Wharton School Logo](/assets/images/whartonlogo.png) <!-- Replace with the actual path to the logo image -->
 
-## Consulting Projects at The Wharton School
+## Projects at The Wharton School
 
 As a Teaching Assistant/Mentor in the Mack Institute's Collaborative Innovation Program at the Wharton School, I have been actively involved in guiding MBA and Executive MBA students since September 2023. My role focuses on integrating AI and innovative technologies into real-world business strategies. I have facilitated student collaboration with corporate partners, leading projects that blend AI applications with practical business challenges. 
 
