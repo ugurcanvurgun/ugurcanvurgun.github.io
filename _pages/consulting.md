@@ -10,7 +10,7 @@ classes: wide
 
 
 <div style="text-align:center;">
-    <img src="/assets/images/whartonlogo.png" alt="The Wharton School Logo" style="width:50%; height:auto;"/> <!-- Adjust width as needed -->
+    <img src="/assets/images/whartonlogo.png" alt="The Wharton School Logo" style="width:40%; height:auto;"/> <!-- Adjust width as needed -->
 </div>
 ## Projects at The Wharton School
 
