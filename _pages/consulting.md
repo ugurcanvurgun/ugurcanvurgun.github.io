@@ -12,7 +12,7 @@ classes: wide
 
 ## Consulting Projects at The Wharton School
 
-As a Teaching Assistant/Mentor at The Wharton School, I have been actively involved in guiding MBA and Executive MBA students since September 2023. My role in the Mack Institute Collaborative Innovation Program focuses on integrating AI and innovative technologies into real-world business strategies. I have facilitated student collaboration with corporate partners, leading projects that blend AI applications with practical business challenges. This experience has been instrumental in enhancing my proficiency in AI implementation, honing strategic acumen, and bridging the gap between academic research and industry demands.
+As a Teaching Assistant/Mentor in the Mack Institute's Collaborative Innovation Program at the Wharton School, I have been actively involved in guiding MBA and Executive MBA students since September 2023. My role focuses on integrating AI and innovative technologies into real-world business strategies. I have facilitated student collaboration with corporate partners, leading projects that blend AI applications with practical business challenges. This experience has been instrumental in enhancing my proficiency in AI implementation, honing strategic acumen, and bridging the gap between academic research and industry demands.
 
 ### 1. Coforge AI Project: Intelligent Software Testing
 Mentored a team tackling Coforge’s challenge in evolving their software testing strategy using AI/ML. Guided students in analyzing historical tools, current AI/ML landscapes, and future potential in autonomous software testing.
