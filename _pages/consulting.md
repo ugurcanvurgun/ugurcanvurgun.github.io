@@ -8,7 +8,7 @@ entries_layout: grid
 classes: wide
 ---
 
-![The Wharton School Logo](/path/to/wharton_logo.jpg) <!-- Replace with the actual path to the logo image -->
+![The Wharton School Logo](/assets/images/whartonlogo.png) <!-- Replace with the actual path to the logo image -->
 
 ## Consulting Projects at The Wharton School
 
