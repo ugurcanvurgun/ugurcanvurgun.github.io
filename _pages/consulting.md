@@ -25,7 +25,7 @@ Facilitated a project aiming to improve Assurant's Connected Living services thr
 ### 3. Enhancing Plasma Donors' Experiences at CSL Behring
 Advised students examining the plasma donation process at CSL Behring, with a goal to enhance donor experiences. Guided research and analysis on the journey of new and repeat donors, identifying key improvement opportunities.
 
-### 4. Ricoh: AI Strategy at Ricoh
+### 4. Ricoh: AI Strategy
 Mentored a project at Ricoh to enhance its strategic framework for AI integration in digital services. Guided the assessment of market trends, stakeholder insights, and technology infrastructure to develop an AI integration strategy.
 
 ### 5. Tigo: Connected Strategy for Telecom Wholesale Business (Ongoing)
