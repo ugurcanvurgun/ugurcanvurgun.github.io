@@ -8,6 +8,14 @@ entries_layout: grid
 classes: wide
 ---
 
+<div style="text-align:center; display:flex; justify-content:center; align-items:center; gap:20px;">
+    <a href="https://www.upenn.edu/">
+        <img src="/assets/images/pennlogo.png" alt="The University of Pennsylvania Logo" style="width:30%; height:auto;"/> <!-- Adjust width as needed -->
+    </a>
+    <a href="https://www.pennmedicine.org/">
+        <img src="https://www.med.upenn.edu/images/psom_logo_blue.svg" alt="Penn Medicine Logo" style="width:30%; height:auto;"/> <!-- Adjust width as needed -->
+    </a>
+</div>
 
 I am a Ph.D. candidate working with <a href="https://www.langcoglab.com/current-lab-members">Dr. Anna Papafragou</a> at the <a href="https://www.ling.upenn.edu/">University of Pennsylvania</a>. I am interested in creating behavioral and computational models that could reveal the interaction between language and human cognitive systems. 
 <space>
