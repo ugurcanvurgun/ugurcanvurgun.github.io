@@ -8,10 +8,13 @@ entries_layout: grid
 classes: wide
 ---
 
-
-<div style="text-align:center;">
-    <img src="/assets/images/whartonlogo.png" alt="The Wharton School Logo" style="width:40%; height:auto;"/> <!-- Adjust width as needed -->
+<div style="text-align:center; display:flex; justify-content:center; align-items:center; gap:20px; margin-bottom: 20px;">
+    <a href="https://www.wharton.upenn.edu/" style="display: flex; align-items: center;">
+        <img src="/assets/images/whartonlogo.png" alt="The Wharton School Logo" style="width: auto; height: 49px;"/> <!-- Height adjusted to 30% smaller -->
+    </a>
+  
 </div>
+
 ## Projects at The Wharton School
 
 As a Teaching Assistant/Mentor in the [Mack Institute](https://mackinstitute.wharton.upenn.edu/)'s [Collaborative Innovation Program](https://mackinstitute.wharton.upenn.edu/corporate-partnership/collaborative-innovation-program-partners/)  at [The Wharton School](https://www.wharton.upenn.edu/), I have been actively involved in guiding MBA and Executive MBA students since September 2023. My role focuses on integrating AI and innovative technologies into real-world business strategies. I have facilitated student collaboration with various corporate partners, leading projects that blend AI applications with practical business challenges. 
