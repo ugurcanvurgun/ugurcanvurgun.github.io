@@ -8,7 +8,7 @@ entries_layout: grid
 classes: wide
 ---
 
-<div style="text-align:center; display:flex; justify-content:center; align-items:center; gap:200px; margin-bottom: 20px;">
+<div style="text-align:center; display:flex; justify-content:center; align-items:center; gap:50px; margin-bottom: 20px;">
     <a href="https://www.upenn.edu/" style="display: flex; align-items: center;">
         <img src="/assets/images/pennlogo.png" alt="The University of Pennsylvania Logo" style="width: auto; height: 46px;"/> <!-- Height adjusted to 30% smaller -->
     </a>
