@@ -9,7 +9,7 @@ classes: wide
 ---
 
 
-- **Li, C.**, Mowery, D.L., Ma, X., Yang, R., **Vurgun, U.**, Hwang, S., Donnelly, H.K., Bandhey, H., Akhtar, Z., Senathirajah, Y., Sadhu, E.M., Getzen, E., Freda, P.J., Long, Q., Becich, M.J. (Submitted). Realizing the Potential of Social Determinants Data: A Scoping Review of Approaches for Screening, Linkage, Extraction, Analysis, and Interventions. *Journal of Clinical and Translational Science*.
+- Li, C., Mowery, D.L., Ma, X., Yang, R., **Vurgun, U.**, Hwang, S., Donnelly, H.K., Bandhey, H., Akhtar, Z., Senathirajah, Y., Sadhu, E.M., Getzen, E., Freda, P.J., Long, Q., Becich, M.J. (Submitted). Realizing the Potential of Social Determinants Data: A Scoping Review of Approaches for Screening, Linkage, Extraction, Analysis, and Interventions. *Journal of Clinical and Translational Science*.
 
 - **Vurgun, U.**, Cho, S., Fusaroli, R., Ip, M., Pelella, M.R., Knox, A., Hauptmann, A., Covello, M., Madya, M., Lyons, M., Lee, A., Schillinger, S., Fulop, L., Adeniyi, H., Russell, A., Fiumara, J., Hicks, G., Anello, O., Walker, K., Tunç, B., Sariyanidi, E., Liberman, M., Schultz, R.T., & Parish-Morris, J. (2024). Automatic classification of autism using automatic speech recognition and large language models (LLMs). Poster presentation at Meeting on Language and Autism, Durham, NC.
 
