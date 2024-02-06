@@ -10,10 +10,10 @@ classes: wide
 
 <div style="text-align:center; display:flex; justify-content:center; align-items:center; gap:20px; margin-bottom: 20px;">
     <a href="https://www.upenn.edu/" style="display: flex; align-items: center;">
-        <img src="/assets/images/pennlogo.png" alt="The University of Pennsylvania Logo" style="width: auto; height: 48px;"/> <!-- Height adjusted to 30% smaller -->
+        <img src="/assets/images/pennlogo.png" alt="The University of Pennsylvania Logo" style="width: auto; height: 46px;"/> <!-- Height adjusted to 30% smaller -->
     </a>
     <a href="https://www.pennmedicine.org/" style="display: flex; align-items: center;">
-        <img src="https://www.med.upenn.edu/images/psom_logo_blue.svg" alt="Penn Medicine Logo" style="width: auto; height: 55px;"/> <!-- Height adjusted to 30% smaller -->
+        <img src="https://www.med.upenn.edu/images/psom_logo_blue.svg" alt="Penn Medicine Logo" style="width: auto; height: 57px;"/> <!-- Height adjusted to 30% smaller -->
     </a>
 </div>
 
