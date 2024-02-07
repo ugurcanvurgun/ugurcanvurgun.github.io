@@ -42,3 +42,9 @@ classes: wide
   - **Role:** Teaching Assistant
   - **Professor:** Mine Nakipoğlu
 
+  <br/>
+
+<div style="text-align:center;">
+    <img src="/assets/images/picture8.jpg" alt="my teaching experience" style="width:250px;height:250px;">
+</div>
+
