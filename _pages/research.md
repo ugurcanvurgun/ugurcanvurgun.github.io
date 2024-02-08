@@ -9,6 +9,14 @@ classes: wide
 ---
 
 
+
+- Vurgun, **U.**, Cho, S., Fusaroli, R., Ip, M., Pelella, M. R., Knox, A., Schillinger, S., Hauptmann, A., Covello, M., Madya, M., Lyons, M., Lee, A., Fulop, L., Adeniyi, H., Russell, A., Hicks, G., Anello, O., Walker, K., Fiumara, J., Tunç, B., Sariyanidi, E., Liberman, M., Schultz, R. T., & Parish-Morris, J. (2024). Detecting Autism through Automated Speech Analysis: The Role of Model Complexity and Dataset Balance. Poster presentation at the International Society for Autism Research Annual Meeting, Melbourne, Australia.
+
+- Cho, S., **Vurgun, U.**, Fusaroli, R., Ip, M., Pelella, M. R., Knox, A., Hauptmann, A., Covello, M., Madya, M., Lyons, M., Lee, A., Fulop, L., Schillinger, S., Russell, A., Hicks, G., Walker, K., Fiumara, J., Chatham, C., Liberman, M., Schultz, R. T., & Parish-Morris, J. (2024). Stable Acoustic Differences between Autistic and Neurotypical Children: A Longitudinal Telephony Study. Oral presentation at the International Society for Autism Research Annual Meeting, Melbourne, Australia.
+
+- Cho, S., **Vurgun, U.**, Fusaroli, R., Ip, M., Pelella, M. R., Knox, A., Hauptmann, A., Covello, M., Madya, M., Lyons, M., Lee, A., Fulop, L., Russell, A., Hicks, G., Fiumara, J., Pandey, J., Tunç, B., Sariyanidi, E., Liberman, M., Schultz, R. T., & Parish-Morris, J. (2024). Automatically-derived Lexical Features Distinguish Autistic Teens from Neurotypical Peers and Teens with Other Psychiatric Conditions in a Natural Conversation Task. Oral presentation at the International Society for Autism Research Annual Meeting, Melbourne, Australia.
+
+
 - Li, C., Mowery, D.L., Ma, X., Yang, R., **Vurgun, U.**, Hwang, S., Donnelly, H.K., Bandhey, H., Akhtar, Z., Senathirajah, Y., Sadhu, E.M., Getzen, E., Freda, P.J., Long, Q., Becich, M.J. (Submitted). Realizing the Potential of Social Determinants Data: A Scoping Review of Approaches for Screening, Linkage, Extraction, Analysis, and Interventions. *Journal of Clinical and Translational Science*.
 
 - **Vurgun, U.**, Cho, S., Fusaroli, R., Ip, M., Pelella, M.R., Knox, A., Hauptmann, A., Covello, M., Madya, M., Lyons, M., Lee, A., Schillinger, S., Fulop, L., Adeniyi, H., Russell, A., Fiumara, J., Hicks, G., Anello, O., Walker, K., Tunç, B., Sariyanidi, E., Liberman, M., Schultz, R.T., & Parish-Morris, J. (2024). Automatic classification of autism using automatic speech recognition and large language models (LLMs). Poster presentation at Meeting on Language and Autism, Durham, NC.
