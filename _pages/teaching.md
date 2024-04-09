@@ -14,7 +14,7 @@ classes: wide
 ### University of Pennsylvania College of Liberal and Professional Studies
 
 - **LING 0001 Introduction to Linguistics**
-  - **Semester:** Summer 2023
+  - **Semester:** Summer 2023 & Summer 2024
   - **Role:** Instructor
   - **Details:** Lecturer for the Introduction to Linguistics course, covering phonetics, phonology, morphology, syntax, semantics, pragmatics, computational linguistics, and psycholinguistics.
 
