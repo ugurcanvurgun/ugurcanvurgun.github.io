@@ -10,6 +10,8 @@ main:
     url: /teaching/
   - title: "CV"
     url: /cv/
+  - title: "Consulting"
+    url: /consulting/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
