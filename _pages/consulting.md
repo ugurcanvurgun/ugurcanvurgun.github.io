@@ -32,13 +32,13 @@ Advised students examining the plasma donation process at CSL Behring, with a go
 Mentored a project at Ricoh to enhance its strategic framework for AI integration in digital services. Guided the assessment of market trends, stakeholder insights, and technology infrastructure to develop an AI integration strategy.
 
 ### 5. Tigo: Connected Strategy for Telecom Wholesale Business (2024 Spring)
-Currently mentoring a project with Tigo, focusing on a connected strategy in the Telecom Wholesale Business. Overseeing the exploration of market segmentation, automation opportunities, and improving internal processes.
+Mentored a project with Tigo, focusing on a connected strategy in the Telecom Wholesale Business. Oversaw the exploration of market segmentation, automation opportunities, and improving internal processes.
 
 ### 6. CHOP: Partnership Strategy for the Center of Advanced Diagnostics (2024 Spring)
-Assisting a team in developing innovative partnership strategies for CHOP’s Center of Advanced Diagnostics. Guiding the identification of potential partners and the creation of a playbook for effective partnership engagement.
+Assisted a team in developing innovative partnership strategies for CHOP’s Center of Advanced Diagnostics. Guiding the identification of potential partners and the creation of a playbook for effective partnership engagement.
 
 ### 7. TATA Communications: AI-Led Transformation (2024 Spring)
-Supporting a team in formulating AI strategies for TATA Communications’ products. Facilitating research on AI use cases, market analysis, and potential offerings in the context of network, cloud/edge, and mobility sectors.
+Supported a team in formulating AI strategies for TATA Communications’ products. Facilitated research on AI use cases, market analysis, and potential offerings in the context of network, cloud/edge, and mobility sectors.
 
 ### 8. Willis Towers Watson: Green Algorithms (2024 Spring)
-Involved in mentoring a project focused on the environmental impact of AI at Willis Towers Watson. Guiding the exploration of AI’s energy consumption, green algorithms, and sustainable practices in AI applications.
+Involved in mentoring a project focused on the environmental impact of AI at Willis Towers Watson. Guided the exploration of AI’s energy consumption, green algorithms, and sustainable practices in AI applications.
