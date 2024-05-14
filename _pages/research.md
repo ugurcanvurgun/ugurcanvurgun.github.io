@@ -9,6 +9,10 @@ classes: wide
 ---
 
 
+- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024). Detecting event construal shifts in aspectual coercion. Poster presented at the 37th Annual Conference on Human Sentence Processing, University of Michigan, Ann Arbor.
+
+- **Vurgun, U.**, Yun, H., Landau, B., & Trueswell, J. (2024). Symmetrical or not?: A new method to probe real-time semantic categorization. Poster presented at the 37th Annual Conference on Human Sentence Processing, University of Michigan, Ann Arbor.
+
 - **Vurgun, U.**, Cho, S., Fusaroli, R., Ip, M. H. K., Pelella, M. R., Knox, A., Schillinger, S., Hauptmann, A., Covello, M., Madya, M., Lyons, M., Lee, A., Fulop, L., Adeniyi, H., Russell, A., Hicks, G., Anello, O., Walker, K., Fiumara, J., Tunç, B., Sariyanidi, E., Liberman, M., Schultz, R. T., & Parish-Morris, J. (2024). Detecting Autism through Automated Speech Analysis: The Role of Model Complexity and Dataset Balance. Poster presentation at the International Society for Autism Research Annual Meeting, Melbourne, Australia.
 
 - Cho, S., **Vurgun, U.**, Fusaroli, R., Ip, M. H. K., Pelella, M. R., Knox, A., Hauptmann, A., Covello, M., Madya, M., Lyons, M., Lee, A., Fulop, L., Schillinger, S., Russell, A., Hicks, G., Walker, K., Fiumara, J., Chatham, C., Liberman, M., Schultz, R. T., & Parish-Morris, J. (2024). Stable Acoustic Differences between Autistic and Neurotypical Children: A Longitudinal Telephony Study. Oral presentation at the International Society for Autism Research Annual Meeting, Melbourne, Australia.
