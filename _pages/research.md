@@ -9,7 +9,7 @@ classes: wide
 ---
 
 
-- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024). Detecting event construal shifts in aspectual coercion. Poster presented at the 37th Annual Conference on Human Sentence Processing, University of Michigan, Ann Arbor.
+- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024). Aspectual Coercion: A New Method to Probe Aspectual Commitments. Poster presented at the 37th Annual Conference on Human Sentence Processing, University of Michigan, Ann Arbor.
 
 - **Vurgun, U.**, Yun, H., Landau, B., & Trueswell, J. (2024). Symmetrical or not?: A new method to probe real-time semantic categorization. Poster presented at the 37th Annual Conference on Human Sentence Processing, University of Michigan, Ann Arbor.
 
