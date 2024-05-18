@@ -16,5 +16,5 @@ Please refer to <a href="https://www.linkedin.com/in/ugurcan-vurgun-24386349/">m
 <br/>
 
 <div style="text-align:center;">
-    <img src="/assets/images/picture7.jpg" alt="my research" style="width:250px;height:250px;">
+    <img src="/assets/images/picture7.jpg" alt="my research" style="width:250px;height:250px; border:3px solid black">
 </div>

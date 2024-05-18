@@ -45,6 +45,6 @@ classes: wide
   <br/>
 
 <div style="text-align:center;">
-    <img src="/assets/images/picture8.jpg" alt="my teaching experience" style="width:250px;height:250px;">
+    <img src="/assets/images/picture8.jpg" alt="my teaching experience" style="width:250px;height:250px; border:3px solid black">
 </div>
 
