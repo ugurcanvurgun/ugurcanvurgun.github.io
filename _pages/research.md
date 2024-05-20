@@ -58,7 +58,7 @@ classes: wide
 - Simons Foundation Autism Research Initiative (SFARI) Travel Award for Meeting on Language in Autism (MoLA) [2024].
 - The 48th Annual Boston University Conference On Language Development, Diversity Travel Award [2023].
 - University of Pennsylvania, Language and Communication Sciences Research Fund [2021, 2022, 2023].
-- University of Pennsylvania, Integrated Language Sciences and Technology Research Fund [2022, 2023].
+- University of Pennsylvania, Integrated Language Sciences and Technology Research Fund [2022, 2023, 2024].
 - University of Pennsylvania, GAPSA Research Travel Grant [2022].
 - University of Pennsylvania, SAS Dean's Travel Subvention [2022].
 - University of Pennsylvania, Benjamin Franklin Fellowship [2019-2024].
