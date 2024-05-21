@@ -8,6 +8,7 @@ entries_layout: grid
 classes: wide
 ---
 
+- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024).  Detecting Event Construal Shifts in Aspectual Coercion.     Proceedings form the 46th Annual Meeting of the Cognitive Science Society. 
 
 - **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024). Aspectual Coercion: A New Method to Probe Aspectual Commitments. Poster presented at the 37th Annual Conference on Human Sentence Processing, University of Michigan, Ann Arbor.
 
@@ -21,8 +22,7 @@ classes: wide
 
 - Ip, Martin H. K., Putnam, O., Cho, S., **Vurgun, U.**, Lyons, M., Knox, A., Hauptmann, A., Covello, M., Madya, M., Adeniyi, H., Hicks, G., Anello, O., Walker, K., Fiumara, J., Cieri, C., Fusaroli, R., Chatham, C., Liberman, M., Schultz, R. T., Parish-Morris, J. (2024). Prosodic similarities and variation in autistic and neurotypical children: A telephone-based study of verbal counting. Oral presentation at the International Society for Autism Research Annual Meeting, Melbourne, Australia.
 
-
-- Li, C., Mowery, D. L., Ma, X., Yang, R., **Vurgun, U.**, Hwang, S., Donnelly, H. K., Bandhey, H., Akhtar, Z., Senathirajah, Y., Sadhu, E. M., Getzen, E., Freda, P. J., Long, Q., Becich, M. J. (Submitted). Realizing the Potential of Social Determinants Data: A Scoping Review of Approaches for Screening, Linkage, Extraction, Analysis, and Interventions. *Journal of Clinical and Translational Science*.
+- Li, C., Mowery, D. L., Ma, X., Yang, R., **Vurgun, U.**, Hwang, S., Donnelly, H. K., Bandhey, H., Akhtar, Z., Senathirajah, Y., Sadhu, E. M., Getzen, E., Freda, P. J., Long, Q., Becich, M. J. (in review). Realizing the Potential of Social Determinants Data: A Scoping Review of Approaches for Screening, Linkage, Extraction, Analysis, and Interventions. *Journal of Clinical and Translational Science*.
 
 - **Vurgun, U.**, Cho, S., Fusaroli, R., Ip, M. H. K., Pelella, M. R., Knox, A., Hauptmann, A., Covello, M., Madya, M., Lyons, M., Lee, A., Schillinger, S., Fulop, L., Adeniyi, H., Russell, A., Fiumara, J., Hicks, G., Anello, O., Walker, K., Tunç, B., Sariyanidi, E., Liberman, M., Schultz, R. T., & Parish-Morris, J. (2024). Automatic classification of autism using automatic speech recognition and large language models (LLMs). Poster presentation at Meeting on Language and Autism, Durham, NC.
 
@@ -48,11 +48,8 @@ classes: wide
 
 - **Vurgun, U.** (2018). <a href="/assets/images/bookreview.pdf">Book review</a> - Contemporary Morphological Theories: A User’s Guide. Thomas W. Stewart, 2015. Edinburgh: Edinburgh University Press. 192 pages. ISBN 978 07 486 9268 2. *Journal of Linguistic Research*, 29(2), 129-137.
 
-
 <br/>
-
 ## **Fellowships and Awards**
-
 <br/>
     
 - Simons Foundation Autism Research Initiative (SFARI) Travel Award for Meeting on Language in Autism (MoLA) [2024].
@@ -66,15 +63,12 @@ classes: wide
 - Koç University, Vehbi Koç Fellowship [2002-2007].
 
 <br/>
-
 ## **Reviewing**
-
 <br/>
 
 - Folia Linguistica.
 - CogSci (The Annual Conference of Cognitive Science Society).
 - Journal of Clinical and Translational Science.
-
 <br/>
 
 <div style="text-align:center;">
