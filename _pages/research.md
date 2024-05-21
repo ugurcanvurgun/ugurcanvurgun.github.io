@@ -8,7 +8,7 @@ entries_layout: grid
 classes: wide
 ---
 
-- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024).  Detecting Event Construal Shifts in Aspectual Coercion.     Proceedings form the 46th Annual Meeting of the Cognitive Science Society. 
+- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024).  Detecting Event Construal Shifts in Aspectual Coercion.     Proceedings from the 46th Annual Meeting of the Cognitive Science Society. 
 
 - **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024). Aspectual Coercion: A New Method to Probe Aspectual Commitments. Poster presented at the 37th Annual Conference on Human Sentence Processing, University of Michigan, Ann Arbor.
 
