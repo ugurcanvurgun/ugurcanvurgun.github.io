@@ -24,7 +24,7 @@ Mentored a team tackling Coforge’s challenge in evolving their software testin
 ### 2. AR/VR in Connected Living Technology Insurance (2023 Fall)
 Facilitated a project aiming to improve [Assurant](https://www.assurant.com/)'s Connected Living services through AR/VR. Oversaw the team's exploration of the customer journey and market potential, focusing on integrating AR/VR for enhanced serviceability.
 
-### 3. Enhancing Plasma Donors' Experiences at [CSL Behring](https://www.cslbehring.com/) (2023 Fall)
+### 3. Enhancing Plasma Donors' Experiences at [CSL Behring](https://www.csl.com/) (2023 Fall)
 Advised students examining the plasma donation process at CSL Behring, with a goal to enhance donor experiences. Guided research and analysis on the journey of new and repeat donors, identifying key improvement opportunities.
 
 ### 4. [Ricoh](https://www.ricoh.com/): AI Strategy (2023 Fall)
