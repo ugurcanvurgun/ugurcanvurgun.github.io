@@ -4,7 +4,7 @@ title: "🚨 New Poster Presentation on Clinical Text Analysis! 🚨"
 permalink: /presentations/MedicineResearchDay2024/
 ---
 
-## New Poster Presentation on Clinical Text Analysis using GPT-4!
+## Our Work on Clinical Text Analysis using GPT-4 at Penn Medicine Research Day!
 
 We are happy to share that our work on leveraging large language models (LLMs) to optimize clinical text analysis for in-hospital cardiac arrest (IHCA) identification was presented by Aarthi Kaviyarasu on 06/12/2024 at the Department of Medicine Research Day in Philadelphia, PA. 🏥✨
 
