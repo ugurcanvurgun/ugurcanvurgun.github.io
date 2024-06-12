@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "🚨 New Poster Presentation on Clinical Text Analysis! 🚨"
+title: "Penn Medicine Research Day 2024"
 permalink: /presentations/MedicineResearchDay2024/
 ---
 
