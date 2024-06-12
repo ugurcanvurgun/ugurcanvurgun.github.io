@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "LLMs on Penn Medicine Research Day 2024"
+title: "LLMs on Penn Medicine Research Day!"
 permalink: /presentations/MedicineResearchDay2024/
 ---
 
@@ -9,7 +9,7 @@ We are happy to share that our work on leveraging large language models (LLMs) t
 
 ### Objective
 
-To determine if using large language models (LLMs) for analysis of electronic health record (EHR) notes will facilitate accurate assertion of the presence of IHCA at the patient-level.
+To determine if using LLMs for analysis of electronic health record (EHR) notes will facilitate accurate assertion of the presence of IHCA at the patient-level.
 
 ### Methods
 
