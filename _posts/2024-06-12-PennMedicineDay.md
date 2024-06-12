@@ -1,10 +1,9 @@
 ---
 layout: single
-title: "Penn Medicine Research Day 2024"
+title: "LLMs on Penn Medicine Research Day 2024"
 permalink: /presentations/MedicineResearchDay2024/
 ---
 
-## Our Work on Clinical Text Analysis using GPT-4 at Penn Medicine Research Day!
 
 We are happy to share that our work on leveraging large language models (LLMs) to optimize clinical text analysis for in-hospital cardiac arrest (IHCA) identification was presented by Aarthi Kaviyarasu on 06/12/2024 at the Department of Medicine Research Day in Philadelphia, PA. 🏥✨
 
