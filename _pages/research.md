@@ -8,6 +8,10 @@ entries_layout: grid
 classes: wide
 ---
 
+-  **Vurgun, U.**, Ji, Y., & Papafragou, A. (in press). Aspectual framing shifts visual event apprehension. *Cognitive Science*. 
+
+- **Kaviyarasu, A.**, Vurgun, U., Hwang, S., Acevedo, A., Mowery, D. L., Abella, B. S., & Mitchell, O. J. L. (2024). Leveraging large language models to optimize clinical text analysis for in-hospital cardiac arrest identification. Poster presented at the Department of Medicine Research Day, University of Pennsylvania.
+
 - **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024).  Detecting Event Construal Shifts in Aspectual Coercion.     Proceedings from the 46th Annual Meeting of the Cognitive Science Society. 
 
 - **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024). Aspectual Coercion: A New Method to Probe Aspectual Commitments. Poster presented at the 37th Annual Conference on Human Sentence Processing, University of Michigan, Ann Arbor.
@@ -29,8 +33,6 @@ classes: wide
 - Cho, S., **Vurgun, U.**, Fusaroli, R., Ip, M. H. K., Pelella, M.R., Knox, A., Hauptmann, A., Covello, M., Madya, M., Lyons, M., Lee, A., Schillinger, S., Fulop, L., Russell, A., Hicks, G., Fiumara, J., Pandey, J., Tunç, B., Sariyanidi, V., Liberman, M., Schultz, R. T., & Parish-Morris, J. (2024). Autistic teens’ word choice differs from neurotypical peers and teens with attention-deficit/hyperactivity disorder (ADHD) in a natural conversation task. Poster presentation at Meeting on Language and Autism, Durham, NC.
 
 - Ip, M. H. K., Putnam, O. C., Cho, S., **Vurgun, U.**, Lyons, M., Knox, A., Hauptmann, A., Covello, M., Fulop, L., Russell, A., Walker, K., Miller, J., Fiumara, J., Fusaroli, R., Chatham, C., Cieri, C., Lee, A., Liberman, M., Schultz, R. T., & Parish-Morris, J. (2024). Does speech prosody differ in a socially unengaging task? Preliminary findings from autistic and non-autistic children’s verbal counting. Poster presentation at Meeting on Language in Autism, Durham, NC.
-
--  **Vurgun, U.**, Ji, Y., & Papafragou, A. (accepted). Aspectual framing shifts visual event apprehension. *Cognitive Science*. 
 
 - **Vurgun, U.**, Ji, Y., & Papafragou, A. (2023). Aspectual processing and event perception. Talk presented at the 36th Annual Conference on Human Sentence Processing, University of Pittsburgh.
 
