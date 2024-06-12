@@ -10,7 +10,7 @@ classes: wide
 
 -  **Vurgun, U.**, Ji, Y., & Papafragou, A. (in press). Aspectual framing shifts visual event apprehension. *Cognitive Science*. 
 
-- **Kaviyarasu, A.**, Vurgun, U., Hwang, S., Acevedo, A., Mowery, D. L., Abella, B. S., & Mitchell, O. J. L. (2024). Leveraging large language models to optimize clinical text analysis for in-hospital cardiac arrest identification. Poster presented at the Department of Medicine Research Day, University of Pennsylvania.
+- Kaviyarasu, A., **Vurgun, U.**, Hwang, S., Acevedo, A., Mowery, D. L., Abella, B. S., & Mitchell, O. J. L. (2024). Leveraging large language models to optimize clinical text analysis for in-hospital cardiac arrest identification. Poster presented at the Department of Medicine Research Day, University of Pennsylvania.
 
 - **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024).  Detecting Event Construal Shifts in Aspectual Coercion.     Proceedings from the 46th Annual Meeting of the Cognitive Science Society. 
 
