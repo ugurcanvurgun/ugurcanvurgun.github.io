@@ -5,7 +5,7 @@ permalink: /presentations/MedicineResearchDay2024/
 ---
 
 
-We are happy to share that our work on leveraging large language models (LLMs) to optimize clinical text analysis for in-hospital cardiac arrest (IHCA) identification was presented by Aarthi Kaviyarasu at Penn Medicine Research Day in Philadelphia, PA. 🏥✨
+Our work on leveraging large language models (LLMs) to optimize clinical text analysis for in-hospital cardiac arrest (IHCA) identification was presented by Aarthi Kaviyarasu at Penn Medicine Research Day in Philadelphia, PA. 🏥✨
 
 ### Objective
 
