@@ -10,7 +10,7 @@ classes: wide
 
 -  **Vurgun, U.**, Ji, Y., & Papafragou, A. (in press). Aspectual framing shifts visual event apprehension. *Cognitive Science*. 
 
-- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024). Aspectual Coercion: A New Method to Probe Aspectual Commitments. Talk presented at the Experiments in Linguistic Meaning (ELM) Conference, University of Pennsylvania, Philadelphia.
+- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024). Aspectual Coercion: A New Method to Probe Aspectual Commitments. Talk presented at the Experiments in Linguistic Meaning (ELM) Conference, University of Pennsylvania.
 
 - Kaviyarasu, A., **Vurgun, U.**, Hwang, S., Acevedo, A., Mowery, D. L., Abella, B. S., & Mitchell, O. J. L. (2024). Leveraging large language models to optimize clinical text analysis for in-hospital cardiac arrest identification. Poster presented at the Department of Medicine Research Day, University of Pennsylvania.
 
