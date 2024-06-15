@@ -11,7 +11,7 @@ classes: wide
 
 Here is my academic <a href="/assets/images/Vurgun_Ugurcan_CV.pdf">CV</a>.
 
-Please refer to <a href="https://www.linkedin.com/in/ugurcan-vurgun-24386349/">my profile</a> on LinkedIn for my professional background.
+Please refer to <a href="https://www.linkedin.com/in/ugurcanvurgun/">my profile</a> on LinkedIn for my professional background.
 
 <br/>
 
