@@ -22,7 +22,6 @@ classes: wide
 - **Vurgun, U.** (2018). <a href="/assets/images/bookreview.pdf">Book review</a> - Contemporary Morphological Theories: A User’s Guide. Thomas W. Stewart, 2015. Edinburgh: Edinburgh University Press. 192 pages. ISBN 978 07 486 9268 2. *Journal of Linguistic Research*, 29(2), 129-137.
 
 
-***
 
 ## Presentations
 
