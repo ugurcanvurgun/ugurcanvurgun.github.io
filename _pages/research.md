@@ -62,7 +62,6 @@ classes: wide
 
 <br/>
 ## **Fellowships and Awards**
-<br/>
     
 - Simons Foundation Autism Research Initiative (SFARI) Travel Award for Meeting on Language in Autism (MoLA) [2024].
 - The 48th Annual Boston University Conference On Language Development, Diversity Travel Award [2023].
@@ -76,7 +75,6 @@ classes: wide
 
 <br/>
 ## **Reviewing**
-<br/>
 
 - Folia Linguistica.
 - CogSci (The Annual Conference of Cognitive Science Society).
