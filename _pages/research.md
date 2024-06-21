@@ -60,7 +60,6 @@ classes: wide
 
 - **Vurgun, U.** (2019). A lexical-typological approach explaining the limited existence of locative alternation in Turkish. 4th Workshop on Turkic and Languages in Contact with Turkic (Tu+4), NYU.
 
-<br/>
 ## **Fellowships and Awards**
     
 - Simons Foundation Autism Research Initiative (SFARI) Travel Award for Meeting on Language in Autism (MoLA) [2024].
@@ -73,7 +72,6 @@ classes: wide
 - Boğaziçi University, Research Travel Grant [2019].
 - Koç University, Vehbi Koç Fellowship [2002-2007].
 
-<br/>
 ## **Reviewing**
 
 - Folia Linguistica.
