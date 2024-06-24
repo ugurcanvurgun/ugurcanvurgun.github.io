@@ -11,7 +11,7 @@ classes: wide
 ## Publications
 
 
--  **Vurgun, U.**, Ji, Y., & Papafragou, A. (in press). Aspectual framing shifts visual event apprehension. *Cognitive Science*. https://onlinelibrary.wiley.com/doi/10.1111/cogs.13476
+-  **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024). Aspectual processing shifts visual event apprehension. *Cognitive Science, 48*(6), e13476. [https://doi.org/10.1111/cogs.13476](https://doi.org/10.1111/cogs.13476)
 
 - **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024).  Detecting Event Construal Shifts in Aspectual Coercion.     Proceedings from the 46th Annual Meeting of the Cognitive Science Society. 
 
