@@ -32,13 +32,13 @@ classes: wide
 ## Presentations
 
 
-- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024). Aspectual Coercion: A New Method to Probe Aspectual Commitments. Talk presented at the Experiments in Linguistic Meaning (ELM) Conference, University of Pennsylvania.
+- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024). Aspectual Coercion: A New Method to Probe Aspectual Commitments. Oral presentation at the Experiments in Linguistic Meaning (ELM) Conference, University of Pennsylvania.
 
-- Kaviyarasu, A., **Vurgun, U.**, Hwang, S., Acevedo, A., Mowery, D. L., Abella, B. S., & Mitchell, O. J. L. (2024). Leveraging large language models to optimize clinical text analysis for in-hospital cardiac arrest identification. Poster presented at the Department of Medicine Research Day, University of Pennsylvania.
+- Kaviyarasu, A., **Vurgun, U.**, Hwang, S., Acevedo, A., Mowery, D. L., Abella, B. S., & Mitchell, O. J. L. (2024). Leveraging large language models to optimize clinical text analysis for in-hospital cardiac arrest identification. Poster presentation at the Department of Medicine Research Day, University of Pennsylvania.
 
-- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024). Aspectual Coercion: A New Method to Probe Aspectual Commitments. Poster presented at the 37th Annual Conference on Human Sentence Processing, University of Michigan, Ann Arbor.
+- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024). Aspectual Coercion: A New Method to Probe Aspectual Commitments. Poster presentation at the 37th Annual Conference on Human Sentence Processing, University of Michigan, Ann Arbor.
 
-- **Vurgun, U.**, Yun, H., Landau, B., & Trueswell, J. (2024). Symmetrical or not?: A new method to probe real-time semantic categorization. Poster presented at the 37th Annual Conference on Human Sentence Processing, University of Michigan, Ann Arbor.
+- **Vurgun, U.**, Yun, H., Landau, B., & Trueswell, J. (2024). Symmetrical or not?: A new method to probe real-time semantic categorization. Poster presentation at the 37th Annual Conference on Human Sentence Processing, University of Michigan, Ann Arbor.
 
 - **Vurgun, U.**, Cho, S., Fusaroli, R., Ip, M. H. K., Pelella, M. R., Knox, A., Schillinger, S., Hauptmann, A., Covello, M., Madya, M., Lyons, M., Lee, A., Fulop, L., Adeniyi, H., Russell, A., Hicks, G., Anello, O., Walker, K., Fiumara, J., Tunç, B., Sariyanidi, E., Liberman, M., Schultz, R. T., & Parish-Morris, J. (2024). Detecting Autism through Automated Speech Analysis: The Role of Model Complexity and Dataset Balance. Poster presentation at the International Society for Autism Research Annual Meeting, Melbourne, Australia.
 
@@ -54,17 +54,17 @@ classes: wide
 
 - Ip, M. H. K., Putnam, O. C., Cho, S., **Vurgun, U.**, Lyons, M., Knox, A., Hauptmann, A., Covello, M., Fulop, L., Russell, A., Walker, K., Miller, J., Fiumara, J., Fusaroli, R., Chatham, C., Cieri, C., Lee, A., Liberman, M., Schultz, R. T., & Parish-Morris, J. (2024). Does speech prosody differ in a socially unengaging task? Preliminary findings from autistic and non-autistic children’s verbal counting. Poster presentation at Meeting on Language in Autism, Durham, NC.
 
-- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2023). Aspectual processing and event perception. Talk presented at the 36th Annual Conference on Human Sentence Processing, University of Pittsburgh.
+- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2023). Aspectual processing and event perception. Poster presentation at the 36th Annual Conference on Human Sentence Processing, University of Pittsburgh.
 
-- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2023). Aspectual framing of events shifts online event apprehension. 98th Annual Meeting of the Linguistic Society of America, Denver, CO.
+- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2023). Aspectual framing of events shifts online event apprehension. Poster presentation at at the 98th Annual Meeting of the Linguistic Society of America, Denver, CO.
 
-- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2022). Lexical aspect maps onto event apprehension. 2nd Experiments in Linguistic Meaning Conference, University of Pennsylvania.
+- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2022). Lexical aspect maps onto event apprehension. Oral presentation at the 2nd Experiments in Linguistic Meaning Conference, University of Pennsylvania.
 
-- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2022). Linguistic aspect constrains event apprehension. 44th Annual Meeting of the Cognitive Science Society, Toronto, Canada.
+- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2022). Linguistic aspect constrains event apprehension. Poster presentation at the 44th Annual Meeting of the Cognitive Science Society, Toronto, Canada.
 
-- **Vurgun, U.** (2020). Both locative alternation variants in Turkish are change-of-state predicates with ResultPs. Poster presented at the 4th Conference of Central Asian Language and Linguistics, Indiana University.
+- **Vurgun, U.** (2020). Both locative alternation variants in Turkish are change-of-state predicates with ResultPs. Oral presentation at the 4th Conference of Central Asian Language and Linguistics, Indiana University.
 
-- **Vurgun, U.** (2019). A lexical-typological approach explaining the limited existence of locative alternation in Turkish. Poster presented at the 4th Workshop on Turkic and Languages in Contact with Turkic (Tu+4), NYU.
+- **Vurgun, U.** (2019). A lexical-typological approach explaining the limited existence of locative alternation in Turkish. Poster presentation at the 4th Workshop on Turkic and Languages in Contact with Turkic (Tu+4), NYU.
 
 ## **Fellowships and Awards**
     
