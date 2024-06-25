@@ -13,9 +13,13 @@ classes: wide
 
 -  **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024). Aspectual processing shifts visual event apprehension. *Cognitive Science, 48*(6), e13476. [https://doi.org/10.1111/cogs.13476](https://doi.org/10.1111/cogs.13476)
 
-- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024).  Detecting Event Construal Shifts in Aspectual Coercion.     Proceedings from the 46th Annual Meeting of the Cognitive Science Society. 
+- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024).  Detecting event construal shifts in aspectual coercion. Proceedings from the 46th Annual Meeting of the Cognitive Science Society. 
 
 - Li, C., Mowery, D. L., Ma, X., Yang, R., **Vurgun, U.**, Hwang, S., Donnelly, H. K., Bandhey, H., Akhtar, Z., Senathirajah, Y., Sadhu, E. M., Getzen, E., Freda, P. J., Long, Q., Becich, M. J. (in review). Realizing the Potential of Social Determinants Data: A Scoping Review of Approaches for Screening, Linkage, Extraction, Analysis, and Interventions. *Journal of Clinical and Translational Science*.
+
+- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2023).  Cognitive signatures of aspectual coercion. Proceedings from the 45th Annual Meeting of the Cognitive Science Society. 
+
+- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2022).  Linguistic aspect constrains event apprehension. Proceedings from the 44th Annual Meeting of the Cognitive Science Society. 
 
 - **Vurgun, U.** (2019). <a href="/assets/images/Vurgun_2019_FocusParticles_TR.pdf">The syntax of focus particles in Turkish</a>. Unpublished master's thesis, Boğaziçi University. Advisors: Dr. H. Mine Nakipoğlu & Dr. A. Sumru Özsoy.
 
