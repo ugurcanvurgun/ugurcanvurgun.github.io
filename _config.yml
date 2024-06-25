@@ -128,6 +128,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/ugurcan-vurgun-24386349"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=F0MV1vQAAAAJ&hl=en"
 
 # Site Footer
 footer:
