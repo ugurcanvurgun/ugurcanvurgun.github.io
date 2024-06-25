@@ -113,6 +113,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ugurcan.vurgun@pennmedicine.upenn.edu"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=F0MV1vQAAAAJ&hl=en"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -128,9 +131,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/ugurcan-vurgun-24386349"
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=F0MV1vQAAAAJ&hl=en"
 
 # Site Footer
 footer:
