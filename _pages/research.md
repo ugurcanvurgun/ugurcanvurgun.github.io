@@ -62,9 +62,9 @@ classes: wide
 
 - **Vurgun, U.**, Ji, Y., & Papafragou, A. (2022). Linguistic aspect constrains event apprehension. 44th Annual Meeting of the Cognitive Science Society, Toronto, Canada.
 
-- **Vurgun, U.** (2020). Both locative alternation variants in Turkish are change-of-state predicates with ResultPs. 4th Conference of Central Asian Language and Linguistics, Indiana University.
+- **Vurgun, U.** (2020). Both locative alternation variants in Turkish are change-of-state predicates with ResultPs. Poster presented at the 4th Conference of Central Asian Language and Linguistics, Indiana University.
 
-- **Vurgun, U.** (2019). A lexical-typological approach explaining the limited existence of locative alternation in Turkish. 4th Workshop on Turkic and Languages in Contact with Turkic (Tu+4), NYU.
+- **Vurgun, U.** (2019). A lexical-typological approach explaining the limited existence of locative alternation in Turkish. Poster presented at the 4th Workshop on Turkic and Languages in Contact with Turkic (Tu+4), NYU.
 
 ## **Fellowships and Awards**
     
