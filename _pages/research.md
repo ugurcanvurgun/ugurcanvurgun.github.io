@@ -15,6 +15,8 @@ classes: wide
 
 - **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024).  Detecting event construal shifts in aspectual coercion. Proceedings from the 46th Annual Meeting of the Cognitive Science Society. 
 
+- **Vurgun, U.**, Heesu, Y., Landau, B., & Trueswell, J. (2024).  Real-time processing of symmetrical predicates: Semantic categorization over time. Proceedings from the 46th Annual Meeting of the Cognitive Science Society. 
+
 - Li, C., Mowery, D. L., Ma, X., Yang, R., **Vurgun, U.**, Hwang, S., Donnelly, H. K., Bandhey, H., Akhtar, Z., Senathirajah, Y., Sadhu, E. M., Getzen, E., Freda, P. J., Long, Q., Becich, M. J. (in review). Realizing the Potential of Social Determinants Data: A Scoping Review of Approaches for Screening, Linkage, Extraction, Analysis, and Interventions. *Journal of Clinical and Translational Science*.
 
 - **Vurgun, U.**, Ji, Y., & Papafragou, A. (2023).  Cognitive signatures of aspectual coercion. Proceedings from the 45th Annual Meeting of the Cognitive Science Society. 
