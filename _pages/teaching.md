@@ -8,7 +8,6 @@ entries_layout: grid
 classes: wide
 ---
 
-
 ## Teaching Experience
 
 ### University of Pennsylvania College of Liberal and Professional Studies
@@ -34,6 +33,20 @@ classes: wide
   - **Semester:** Spring 2021
   - **Role:** Teaching Assistant for two sections
   - **Professor:** Martin Salzmann
+
+
+### The Wharton School
+
+- **MGMT 8920 Advanced Study Program - Collaborative Innovation Program**
+  - **Semester:** Fall 2023
+  - **Role:** Teaching Assistant for four project teams (MBA/WEMBA students)
+  - **Professor:** Scott Snyder
+
+- **MGMT 8920 Advanced Study Program - Collaborative Innovation Program**
+  - **Semester:** Spring 2024
+  - **Role:** Teaching Assistant for four project teams (MBA/WEMBA students)
+  - **Professor:** Xu (Henry) Han
+
 
 ### Boğaziçi University, Istanbul
 
