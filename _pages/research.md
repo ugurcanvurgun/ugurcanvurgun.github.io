@@ -10,24 +10,24 @@ classes: wide
 
 ## Publications
 
-
 -  **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024). Aspectual processing shifts visual event apprehension. *Cognitive Science, 48*(6), e13476. [https://doi.org/10.1111/cogs.13476](https://doi.org/10.1111/cogs.13476)
-
-- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024).  Detecting event construal shifts in aspectual coercion. Proceedings from the 46th Annual Meeting of the Cognitive Science Society. 
-
-- **Vurgun, U.**, Heesu, Y., Landau, B., & Trueswell, J. (2024).  Real-time processing of symmetrical predicates: Semantic categorization over time. Proceedings from the 46th Annual Meeting of the Cognitive Science Society. 
 
 - Li, C., Mowery, D. L., Ma, X., Yang, R., **Vurgun, U.**, Hwang, S., Donnelly, H. K., Bandhey, H., Akhtar, Z., Senathirajah, Y., Sadhu, E. M., Getzen, E., Freda, P. J., Long, Q., Becich, M. J. (in review). Realizing the Potential of Social Determinants Data: A Scoping Review of Approaches for Screening, Linkage, Extraction, Analysis, and Interventions. *Journal of Clinical and Translational Science*.
 
-- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2023).  Cognitive signatures of aspectual coercion. Proceedings from the 45th Annual Meeting of the Cognitive Science Society. 
-
-- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2022).  Linguistic aspect constrains event apprehension. Proceedings from the 44th Annual Meeting of the Cognitive Science Society. 
 
 - **Vurgun, U.** (2019). <a href="/assets/images/Vurgun_2019_FocusParticles_TR.pdf">The syntax of focus particles in Turkish</a>. Unpublished master's thesis, Boğaziçi University. Advisors: Dr. H. Mine Nakipoğlu & Dr. A. Sumru Özsoy.
 
 - **Vurgun, U.** (2018). <a href="/assets/images/bookreview.pdf">Book review</a> - Contemporary Morphological Theories: A User’s Guide. Thomas W. Stewart, 2015. Edinburgh: Edinburgh University Press. 192 pages. ISBN 978 07 486 9268 2. *Journal of Linguistic Research*, 29(2), 129-137.
 
+## Conference Proceedings
 
+- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024).  Detecting event construal shifts in aspectual coercion. Proceedings from the 46th Annual Meeting of the Cognitive Science Society. 
+
+- **Vurgun, U.**, Heesu, Y., Landau, B., & Trueswell, J. (2024).  Real-time processing of symmetrical predicates: Semantic categorization over time. Proceedings from the 46th Annual Meeting of the Cognitive Science Society. 
+
+- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2023).  Cognitive signatures of aspectual coercion. Proceedings from the 45th Annual Meeting of the Cognitive Science Society. 
+
+- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2022).  Linguistic aspect constrains event apprehension. Proceedings from the 44th Annual Meeting of the Cognitive Science Society. 
 
 ## Presentations
 
