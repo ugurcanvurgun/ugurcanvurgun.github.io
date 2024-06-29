@@ -9,9 +9,9 @@ classes: wide
 ---
 
 
-Here is my academic <a href="/assets/images/Vurgun_Ugurcan_CV.pdf">CV</a>.
+Here is <a href="/assets/images/Vurgun_Ugurcan_CV.pdf">my academic CV</a>.
 
-Please refer to <a href="https://www.linkedin.com/in/ugurcanvurgun/">my profile</a> on LinkedIn for my professional background.
+Please refer to <a href="https://www.linkedin.com/in/ugurcanvurgun/">my profile on LinkedIn</a> for my professional background.
 
 <br/>
 
