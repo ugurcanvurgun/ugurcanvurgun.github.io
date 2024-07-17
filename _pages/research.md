@@ -12,7 +12,7 @@ classes: wide
 
 -  **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024). Aspectual processing shifts visual event apprehension. *Cognitive Science, 48*(6), e13476. [https://doi.org/10.1111/cogs.13476](https://doi.org/10.1111/cogs.13476)
 
-- Li, C., Mowery, D. L., Ma, X., Yang, R., **Vurgun, U.**, Hwang, S., Donnelly, H. K., Bandhey, H., Akhtar, Z., Senathirajah, Y., Sadhu, E. M., Getzen, E., Freda, P. J., Long, Q., Becich, M. J. (in review). Realizing the Potential of Social Determinants Data: A Scoping Review of Approaches for Screening, Linkage, Extraction, Analysis, and Interventions. *Journal of Clinical and Translational Science*.
+- Li, C., Mowery, D. L., Ma, X., Yang, R., **Vurgun, U.**, Hwang, S., Donnelly, H. K., Bandhey, H., Akhtar, Z., Senathirajah, Y., Sadhu, E. M., Getzen, E., Freda, P. J., Long, Q., Becich, M. J. (in review). Realizing the potential of social determinants data: a scoping review of approaches for screening, linkage, extraction, analysis, and interventions. *Journal of Clinical and Translational Science*.
 
 - **Vurgun, U.** (2019). <a href="/assets/images/Vurgun_2019_FocusParticles_TR.pdf">The syntax of focus particles in Turkish</a>. Unpublished master's thesis, Boğaziçi University. Advisors: Dr. H. Mine Nakipoğlu & Dr. A. Sumru Özsoy.
 
