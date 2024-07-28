@@ -30,9 +30,9 @@ classes: wide
 
 ## Presentations
 
-- **Vurgun, U.**, Ji, Y., & Papafragou, A. (forthcoming).  Detecting event construal shifts in aspectual coercion. Oral presentation at the 46th Annual Meeting of the Cognitive Science Society, Rotterdam, Netherlands. 
+- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024).  Detecting event construal shifts in aspectual coercion. Oral presentation at the 46th Annual Meeting of the Cognitive Science Society, Rotterdam, Netherlands. 
 
-- **Vurgun, U.**, Heesu, Y., Landau, B., & Trueswell, J. (forthcoming).  Real-time processing of symmetrical predicates: Semantic categorization over time. Poster presentation at the 46th Annual Meeting of the Cognitive Science Society, Rotterdam, Netherlands. 
+- **Vurgun, U.**, Heesu, Y., Landau, B., & Trueswell, J. (2024).  Real-time processing of symmetrical predicates: Semantic categorization over time. Poster presentation at the 46th Annual Meeting of the Cognitive Science Society, Rotterdam, Netherlands. 
 
 - **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024). Aspectual Coercion: A New Method to Probe Aspectual Commitments. Oral presentation at the Experiments in Linguistic Meaning (ELM) Conference, University of Pennsylvania.
 
