@@ -91,6 +91,7 @@ classes: wide
 - Folia Linguistica.
 - CogSci (The Annual Conference of Cognitive Science Society).
 - Journal of Clinical and Translational Science.
+- Pacific Symposium on Biocomputing
 
 <br/>
 
