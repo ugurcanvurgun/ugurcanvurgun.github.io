@@ -19,7 +19,7 @@ classes: wide
 
 ### Perelman School of Medicine
 
-- **BMIN 5210 AI II: Introduction to Machine Learning and Health Language Processing **
+- **BMIN 5210 AI II: Introduction to Machine Learning and Health Language Processing**
   - **Semester:** Fall 2024
   - **Role:** Teaching Assistant
   - **Professor:** Danielle Lee Mowery
