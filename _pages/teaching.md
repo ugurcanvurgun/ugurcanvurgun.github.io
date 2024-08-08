@@ -17,22 +17,13 @@ classes: wide
   - **Role:** Instructor
   - **Details:** Lecturer for the Introduction to Linguistics course, covering phonetics, phonology, morphology, syntax, semantics, pragmatics, computational linguistics, and psycholinguistics.
 
-### University of Pennsylvania
+### Perelman School of Medicine
 
-- **LING 0001 Introduction to Linguistics**
-  - **Semester:** Fall 2022
-  - **Role:** Teaching Assistant for two sections
-  - **Professor:** Mark Liberman
+- **BMIN 5210 AI II: Introduction to Machine Learning and Health Language Processing **
+  - **Semester:** Fall 2024
+  - **Role:** Teaching Assistant
+  - **Professor:** Danielle Lee Mowery
 
-- **LING 001 Introduction to Linguistics**
-  - **Semester:** Fall 2021
-  - **Role:** Teaching Assistant for two sections
-  - **Professor:** Gareth Roberts
-
-- **LING 001 Introduction to Linguistics**
-  - **Semester:** Spring 2021
-  - **Role:** Teaching Assistant for two sections
-  - **Professor:** Martin Salzmann
 
 ### The Wharton School
 
@@ -50,6 +41,23 @@ classes: wide
   - **Semester:** Fall 2023
   - **Role:** Teaching Assistant for four project teams (MBA/WEMBA students)
   - **Professor:** Scott Snyder
+
+### University of Pennsylvania
+
+- **LING 0001 Introduction to Linguistics**
+  - **Semester:** Fall 2022
+  - **Role:** Teaching Assistant for two sections
+  - **Professor:** Mark Liberman
+
+- **LING 001 Introduction to Linguistics**
+  - **Semester:** Fall 2021
+  - **Role:** Teaching Assistant for two sections
+  - **Professor:** Gareth Roberts
+
+- **LING 001 Introduction to Linguistics**
+  - **Semester:** Spring 2021
+  - **Role:** Teaching Assistant for two sections
+  - **Professor:** Martin Salzmann
 
 ### Boğaziçi University, Istanbul
 
