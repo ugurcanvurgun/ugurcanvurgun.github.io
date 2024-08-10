@@ -17,15 +17,21 @@ classes: wide
   - **Role:** Instructor
   - **Details:** Lecturer for the Introduction to Linguistics course, covering phonetics, phonology, morphology, syntax, semantics, pragmatics, computational linguistics, and psycholinguistics.
 
-### Perelman School of Medicine
+### University of Pennsylvania, Perelman School of Medicine
 
 - **BMIN 5210 AI II: Introduction to Machine Learning and Health Language Processing**
   - **Semester:** Fall 2024
   - **Role:** Teaching Assistant
   - **Professor:** Danielle Lee Mowery
 
+### University of Pennsylvania, School of Engineering and Applied Science
 
-### The Wharton School
+- **CIS 5300 - Natural Language Processing**
+  - **Semester:** Fall 2024
+  - **Role:** Teaching Assistant
+  - **Professor:** Mark Yatskar
+
+### University of Pennsylvania, The Wharton School
 
 - **MGMT 8920 Advanced Study Program - Collaborative Innovation Program**
   - **Semester:** Fall 2024
@@ -42,7 +48,7 @@ classes: wide
   - **Role:** Teaching Assistant for four project teams (MBA/WEMBA students)
   - **Professor:** Scott Snyder
 
-### University of Pennsylvania
+### University of Pennsylvania, School of Arts and Sciences
 
 - **LING 0001 Introduction to Linguistics**
   - **Semester:** Fall 2022
