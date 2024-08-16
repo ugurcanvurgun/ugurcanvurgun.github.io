@@ -36,7 +36,7 @@ classes: wide
 - **MGMT 8920 Advanced Study Program - Collaborative Innovation Program**
   - **Semester:** Fall 2024
   - **Role:** Teaching Assistant for four project teams (MBA/WEMBA students)
-  - **Professor:** ---
+  - **Professor:** Scott Snyder
 
 - **MGMT 8920 Advanced Study Program - Collaborative Innovation Program**
   - **Semester:** Spring 2024
