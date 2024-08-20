@@ -14,7 +14,7 @@ classes: wide
     </a>
 </div>
 
-## Projects at [The Wharton School](https://www.wharton.upenn.edu/)
+## Projects at The Wharton School
 
 In the [Mack Institute](https://mackinstitute.wharton.upenn.edu/)'s [Collaborative Innovation Program](https://mackinstitute.wharton.upenn.edu/corporate-partnership/collaborative-innovation-program-partners/) at [The Wharton School](https://www.wharton.upenn.edu/), I have been actively involved in guiding MBA and Executive MBA students on their innovation projects. My role focuses on integrating AI and innovative technologies into real-world business strategies. I have facilitated student collaboration with various corporate partners, leading projects that blend AI applications with practical business challenges. 
 
