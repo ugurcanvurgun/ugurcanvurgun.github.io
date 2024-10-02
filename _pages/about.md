@@ -24,7 +24,7 @@ I hold a Ph.D. from the <a href="https://www.ling.upenn.edu/">University of Penn
 
 <p>In the<a href="https://web.sas.upenn.edu/trueswell-lab/"> Language Learning Lab</a>, I work with <a href="https://web.sas.upenn.edu/trueswell-lab/labmembers/trueswell/"> Dr. John Trueswell</a> on how symmetry is represented in language and cognition using novel paradigms with eye-tracking.
 <space>
-<p>I am also affiliated with <a href="https://ibi.med.upenn.edu/">the Institute for Biomedical Informatics</a> at <a href="https://www.pennmedicine.org/">Penn Medicine</a>, <a href="https://www.research.chop.edu/car/">the Center for Autism Research</a> at <a href="https://www.research.chop.edu/">CHOP</a> (Children's Hospital of Philadelphia), and <a href="https://mackinstitute.wharton.upenn.edu/">the Mack Institute</a> at <a href="https://www.wharton.upenn.edu/">the Wharton School</a>.</p>
+<p>I am affiliated with <a href="https://ibi.med.upenn.edu/">the Institute for Biomedical Informatics</a> at <a href="https://www.pennmedicine.org/">Penn Medicine</a>, <a href="https://www.research.chop.edu/car/">the Center for Autism Research</a> at <a href="https://www.research.chop.edu/">CHOP</a> (Children's Hospital of Philadelphia), and <a href="https://mackinstitute.wharton.upenn.edu/">the Mack Institute</a> at <a href="https://www.wharton.upenn.edu/">the Wharton School</a>.</p>
 
 <space>
 <p>My M.A. (Master of Arts) degree in Linguistics is from <a href="https://linguistics.bogazici.edu.tr/">Boğaziçi University</a>, where I studied with <a href="https://linguistics.bogazici.edu.tr/mine-nakipoglu/">Dr. Mine Nakipoğlu</a> and <a href="https://linguistics.bogazici.edu.tr/sumru-ozsoy/">Dr. Sumru Özsoy</a> on the syntactic structure of focus particles in Turkish. 
