@@ -13,7 +13,7 @@ classes: wide
         <img src="/assets/images/pennlogo.png" alt="The University of Pennsylvania Logo" style="width: auto; height: 35px;"/> <!-- Height adjusted to 30% smaller -->
     </a>
     <a href="https://www.med.upenn.edu/" style="display: flex; align-items: center;">
-        <img src="https://www.med.upenn.edu/images/psom_logo_blue.svg" alt="Penn Medicine Logo" style="width: auto; height: 57px;"/> <!-- Height adjusted to 30% smaller -->
+        <img src="https://www.med.upenn.edu/images/psom_logo_blue.svg" alt="Penn Medicine Logo" style="width: auto; height: 35px;"/> <!-- Height adjusted to 30% smaller -->
     </a>
 </div>
 
