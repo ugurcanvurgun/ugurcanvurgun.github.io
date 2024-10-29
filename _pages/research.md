@@ -10,7 +10,7 @@ classes: wide
 
 ## Publications
 
-- **Vurgun, U.**, Kaviyarasu, A., Hwang, S., Acevedo, A., Mowery, D. L., Abella, B. S., & Mitchell, O. J. L. (2024). Reliability in AI-assisted critical care: Assessing large language model robustness and instruction following for cardiac arrest identification. 38th Conference on Neural Information Processing Systems (NeurIPS 2024)
+- **Vurgun, U.**, Kaviyarasu, A., Hwang, S., Acevedo, A., Mowery, D. L., Abella, B. S., & Mitchell, O. J. L. (2024). Reliability in AI-assisted critical care: Assessing large language model robustness and instruction following for cardiac arrest identification. 38th Conference on Neural Information Processing Systems (NeurIPS 2024).
 
 -  **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024). Aspectual processing shifts visual event apprehension. *Cognitive Science, 48*(6), e13476. [https://doi.org/10.1111/cogs.13476](https://doi.org/10.1111/cogs.13476)
 
