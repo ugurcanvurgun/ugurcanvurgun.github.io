@@ -10,7 +10,7 @@ classes: wide
 
 <div style="text-align:center; display:flex; justify-content:center; align-items:center; gap:20px; margin-bottom: 20px;">
     <a href="https://www.wharton.upenn.edu/" style="display: flex; align-items: center;">
-        <img src="/assets/images/whartonlogo.png" alt="The Wharton School Logo" style="width: auto; height: 65px;"/>
+        <img src="/assets/images/whartonlogo.png" alt="The Wharton School Logo" style="width: auto; height: 40px;"/>
     </a>
 </div>
 
