@@ -91,10 +91,11 @@ classes: wide
 ## **Reviewing**
 
 - Folia Linguistica
-- CogSci (The Annual Conference of Cognitive Science Society)
+- The Annual Conference of Cognitive Science Society (CogSci)
 - Journal of Clinical and Translational Science
 - Pacific Symposium on Biocomputing
-- Annual Conference of the Society for Human Sentence Processing
+- Annual Conference of the Society for Human Sentence Processing (HSP)
+- American Psychological Association (APA)
 
 <br/>
 
