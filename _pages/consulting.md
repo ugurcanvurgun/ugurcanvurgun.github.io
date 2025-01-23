@@ -62,7 +62,7 @@ Mentored a project at Ricoh to enhance its strategic framework for AI integratio
 ### 14. [Tigo](https://www.tigo.com/): Connected Strategy for Telecom Wholesale Business (2024 Spring)
 Mentored a project with Tigo, focusing on a connected strategy in the Telecom Wholesale Business. Oversaw the exploration of market segmentation, automation opportunities, and improving internal processes.
 
-### 15. [CHOP](https://www.chop.edu/): Partnership Strategy for the Center of Advanced Diagnostics (2024 Spring)
+### 15. [Children's Hospital of Philadelphia](https://www.chop.edu/): Partnership Strategy for the Center of Advanced Diagnostics (2024 Spring)
 Assisted a team in developing innovative partnership strategies for CHOP's Center of Advanced Diagnostics. Guiding the identification of potential partners and the creation of a playbook for effective partnership engagement.
 
 ### 16. [TATA Communications](https://www.tatacommunications.com/): AI-Led Transformation (2024 Spring)
