@@ -7,9 +7,8 @@ collection: consulting
 entries_layout: grid
 classes: wide
 ---
-
 <div style="text-align:center; display:flex; justify-content:center; align-items:center; gap:20px; margin-bottom: 20px;">
-    <a href="[https://www.wharton.upenn.edu/](https://mackinstitute.wharton.upenn.edu/students/collaborative-innovation-program/)" style="display: flex; align-items: center;">
+    <a href="https://mackinstitute.wharton.upenn.edu/students/collaborative-innovation-program/" style="display: flex; align-items: center;">
         <img src="/assets/images/whartonlogo.png" alt="The Wharton School Logo" style="width: auto; height: 50px;"/>
     </a>
 </div>
