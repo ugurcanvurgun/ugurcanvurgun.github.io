@@ -40,9 +40,9 @@ Before that, I had a B.A. degree in Business Administration from <a href="https:
 
 <!-- Row 1: Picture1 (left) and Picture4 (right) -->
 <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
-  <img src="/assets/images/picture1.jpg" alt="Ugurcan Vurgun" style="width:356px; height:200px; border:3px solid black; margin: 10px;">
-  <img src="/assets/images/picture4.jpg" alt="Ugurcan Vurgun" style="width:356px; height:200px; border:3px solid black; margin: 10px;">
-  <img src="/assets/images/picture5.jpg" alt="Ugurcan Vurgun" style="width:356px; height:200px; border:3px solid black; margin: 10px;">
+  <img src="/assets/images/picture1.jpg" alt="Ugurcan Vurgun" style="width:0.8*356px; height:0.8*200px; border:3px solid black; margin: 10px;">
+  <img src="/assets/images/picture4.jpg" alt="Ugurcan Vurgun" style="width:0.8*356px; height:0.8*200px; border:3px solid black; margin: 10px;">
+  <img src="/assets/images/picture5.jpg" alt="Ugurcan Vurgun" style="width:0.8*356px; height:0.8*200px; border:3px solid black; margin: 10px;">
 </div>
 
 
