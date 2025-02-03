@@ -46,4 +46,6 @@ Before that, I had a B.A. degree in Business Administration from <a href="https:
 
 <img align="left" src="/assets/images/picture6.jpg" alt="Ugurcan Vurgun" style="width:356px;height:200px; border:3px solid black">
 
+<space>
+<img align="right" src="/assets/images/Vurgun_Elidor.jpg" alt="Ugurcan Vurgun" style="width:300px;height:450px; border:3px solid black">
 
