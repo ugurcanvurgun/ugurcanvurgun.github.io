@@ -33,26 +33,29 @@ I have a Ph.D. from the University of Pennsylvania, where I worked with <a href=
 Before that, I had a B.A. degree in Business Administration from <a href="https://www.ku.edu.tr/en/">Koç University</a>. Following my undergraduate degree, I spent some time in the industry and managed large sales teams at <a href="https://www.unilever.com/">Unilever</a>. During this experience, I had the chance to get to know so many wonderful people all over Turkey, speaking many different languages and dialects. I am grateful to all of them, as they helped me find out that language science is my passion.<br>
 
 <br>
-<br>
 <space>
 
 <!-- Images Section -->
 <br><br>
 
 <!-- Row 1: Picture1 (left) and Picture4 (right) -->
-<div style="overflow: auto; margin-bottom: 20px;">
-  <img src="/assets/images/picture1.jpg" alt="Ugurcan Vurgun" style="width:356px; height:200px; border:3px solid black; float:left; margin: 10px;">
-  <img src="/assets/images/picture4.jpg" alt="Ugurcan Vurgun" style="width:356px; height:200px; border:3px solid black; float:right; margin: 10px;">
+<div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
+  <img src="/assets/images/picture1.jpg" alt="Ugurcan Vurgun" style="width:356px; height:200px; border:3px solid black; margin: 10px;">
+  <img src="/assets/images/picture4.jpg" alt="Ugurcan Vurgun" style="width:356px; height:200px; border:3px solid black; margin: 10px;">
+  <img src="/assets/images/picture5.jpg" alt="Ugurcan Vurgun" style="width:356px; height:200px; border:3px solid black; margin: 10px;">
 </div>
 
-<!-- Row 2: Picture5 (right) and Picture6 (left) -->
-<div style="overflow: auto; margin-bottom: 20px;">
-  <img src="/assets/images/picture5.jpg" alt="Ugurcan Vurgun" style="width:356px; height:200px; border:3px solid black; float:right; margin: 10px;">
-  <img src="/assets/images/picture6.jpg" alt="Ugurcan Vurgun" style="width:356px; height:200px; border:3px solid black; float:left; margin: 10px;">
+
 </div>
 
-<!-- Row 3: Vurgun_Elidor (center aligned) -->
+<!-- Row 2: Vurgun_Elidor (center aligned) -->
 <div style="text-align: center; margin-bottom: 20px;">
   <img src="/assets/images/Vurgun_Elidor.jpg" alt="Ugurcan Vurgun" style="width:300px; height:450px; border:3px solid black; display: inline-block; margin: 10px;">
+</div>
+
+
+<!-- Row 3: Sales teams (center aligned) -->
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="/assets/images/picture6.jpg" alt="Ugurcan Vurgun" style="width:712px; height:400px; border:3px solid black; float:left; margin: 10px;">
 </div>
 
