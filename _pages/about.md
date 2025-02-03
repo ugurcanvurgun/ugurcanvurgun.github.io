@@ -55,6 +55,6 @@ Before that, I had a B.A. degree in Business Administration from <a href="https:
 
 <!-- Row 3: Sales teams (center aligned) -->
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="/assets/images/picture6.jpg" alt="Ugurcan Vurgun" style="width:712px; height:400px; border:3px solid black; display: inline-block; margin: 10px;"">
+  <img src="/assets/images/picture6.jpg" alt="Ugurcan Vurgun" style="width:712px; height:400px; border:3px solid black; display: inline-block; margin: 10px;">
 </div>
 
