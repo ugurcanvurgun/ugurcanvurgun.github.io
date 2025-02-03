@@ -51,8 +51,8 @@ Before that, I had a B.A. degree in Business Administration from <a href="https:
   <img src="/assets/images/picture6.jpg" alt="Ugurcan Vurgun" style="width:356px; height:200px; border:3px solid black; float:left; margin: 10px;">
 </div>
 
-<!-- Row 3: Vurgun_Elidor (right) -->
-<div style="overflow: auto; margin-bottom: 20px;">
-  <img src="/assets/images/Vurgun_Elidor.jpg" alt="Ugurcan Vurgun" style="width:300px; height:450px; border:3px solid black; float:right; margin: 10px;">
+<!-- Row 3: Vurgun_Elidor (center aligned) -->
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="/assets/images/Vurgun_Elidor.jpg" alt="Ugurcan Vurgun" style="width:300px; height:450px; border:3px solid black; display: inline-block; margin: 10px;">
 </div>
 
