@@ -36,16 +36,23 @@ Before that, I had a B.A. degree in Business Administration from <a href="https:
 <br>
 <space>
 
-<img align="left" src="/assets/images/picture1.jpg" alt="Ugurcan Vurgun" style="width:356px;height:200px; border:3px solid black">
+<!-- Images Section -->
+<br><br>
 
-<img align="right" src="/assets/images/picture4.jpg" alt="Ugurcan Vurgun" style="width:356px;height:200px; border:3px solid black">
+<!-- Row 1: Picture1 (left) and Picture4 (right) -->
+<div style="overflow: auto; margin-bottom: 20px;">
+  <img src="/assets/images/picture1.jpg" alt="Ugurcan Vurgun" style="width:356px; height:200px; border:3px solid black; float:left; margin: 10px;">
+  <img src="/assets/images/picture4.jpg" alt="Ugurcan Vurgun" style="width:356px; height:200px; border:3px solid black; float:right; margin: 10px;">
+</div>
 
-<space>
+<!-- Row 2: Picture5 (right) and Picture6 (left) -->
+<div style="overflow: auto; margin-bottom: 20px;">
+  <img src="/assets/images/picture5.jpg" alt="Ugurcan Vurgun" style="width:356px; height:200px; border:3px solid black; float:right; margin: 10px;">
+  <img src="/assets/images/picture6.jpg" alt="Ugurcan Vurgun" style="width:356px; height:200px; border:3px solid black; float:left; margin: 10px;">
+</div>
 
-<img align="right" src="/assets/images/picture5.jpg" alt="Ugurcan Vurgun" style="width:356px;height:200px; border:3px solid black">
-
-<img align="left" src="/assets/images/picture6.jpg" alt="Ugurcan Vurgun" style="width:356px;height:200px; border:3px solid black">
-
-<space>
-<img align="right" src="/assets/images/Vurgun_Elidor.jpg" alt="Ugurcan Vurgun" style="width:300px;height:450px; border:3px solid black">
+<!-- Row 3: Vurgun_Elidor (right) -->
+<div style="overflow: auto; margin-bottom: 20px;">
+  <img src="/assets/images/Vurgun_Elidor.jpg" alt="Ugurcan Vurgun" style="width:300px; height:450px; border:3px solid black; float:right; margin: 10px;">
+</div>
 
