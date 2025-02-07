@@ -41,7 +41,7 @@ Before that, I had a B.A. degree in Business Administration from <a href="https:
 <!-- Row 1: Picture1, Picture4, and Picture5 decreased in size -->
 <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
   <img src="/assets/images/picture1.jpg" alt="Ugurcan Vurgun" style="width: calc(356px * 0.8); height: calc(200px * 0.8); border:3px solid black; margin: 10px;">
-  <img src="/assets/images/picture4.jpg" alt="Ugurcan Vurgun" style="width: calc(356px * 0.8); height: calc(200px * 0.8); border:3px solid black; margin: 10px;">
+  <img src="/assets/images/picture4.jpg" alt="Ugurcan Vurgun" style="width: calc(356px * 0.7); height: calc(200px * 0.8); border:3px solid black; margin: 10px;">
   <img src="/assets/images/picture5.jpg" alt="Ugurcan Vurgun" style="width: calc(356px * 0.8); height: calc(200px * 0.8); border:3px solid black; margin: 10px;">
 </div>
 
