@@ -47,26 +47,28 @@ Guiding a project focused on transforming manual forklifts into autonomous syste
 ### 9. [Penn Dental Medicine](https://www.dental.upenn.edu/): Dental Innovation (2024 Fall)
 Leading a team developing an innovative robotic dental device for professional and consumer use. The project encompasses market research, product development, and commercialization strategy for advanced dental care solutions.
 
-### 10. [Coforge](https://www.coforge.com/) AI Project: Intelligent Software Testing (2023 Fall)
-Mentored a team tackling Coforge's challenge in evolving their software testing strategy using AI/ML. Guided students in analyzing historical tools, current AI/ML landscapes, and future potential in autonomous software testing.
-
-### 11. AR/VR in Connected Living Technology Insurance (2023 Fall)
-Facilitated a project aiming to improve [Assurant](https://www.assurant.com/)'s Connected Living services through AR/VR. Oversaw the team's exploration of the customer journey and market potential, focusing on integrating AR/VR for enhanced serviceability.
-
-### 12. Enhancing Plasma Donors' Experiences at [CSL Behring](https://www.csl.com/) (2023 Fall)
-Advised students examining the plasma donation process at CSL Behring, with a goal to enhance donor experiences. Guided research and analysis on the journey of new and repeat donors, identifying key improvement opportunities.
-
-### 13. [Ricoh](https://www.ricoh.com/): AI Strategy (2023 Fall)
-Mentored a project at Ricoh to enhance its strategic framework for AI integration in digital services. Guided the assessment of market trends, stakeholder insights, and technology infrastructure to develop an AI integration strategy.
-
-### 14. [Tigo](https://www.tigo.com/): Connected Strategy for Telecom Wholesale Business (2024 Spring)
+### 10. [Tigo](https://www.tigo.com/): Connected Strategy for Telecom Wholesale Business (2024 Spring)
 Mentored a project with Tigo, focusing on a connected strategy in the Telecom Wholesale Business. Oversaw the exploration of market segmentation, automation opportunities, and improving internal processes.
 
-### 15. [Children's Hospital of Philadelphia](https://www.chop.edu/): Partnership Strategy for the Center of Advanced Diagnostics (2024 Spring)
+### 11. [Children's Hospital of Philadelphia](https://www.chop.edu/): Partnership Strategy for the Center of Advanced Diagnostics (2024 Spring)
 Assisted a team in developing innovative partnership strategies for CHOP's Center of Advanced Diagnostics. Guiding the identification of potential partners and the creation of a playbook for effective partnership engagement.
 
-### 16. [TATA Communications](https://www.tatacommunications.com/): AI-Led Transformation (2024 Spring)
+### 12. [TATA Communications](https://www.tatacommunications.com/): AI-Led Transformation (2024 Spring)
 Supported a team in formulating AI strategies for TATA Communications' products. Facilitated research on AI use cases, market analysis, and potential offerings in the context of network, cloud/edge, and mobility sectors.
 
-### 17. [Willis Towers Watson](https://www.wtwco.com/): Green Algorithms (2024 Spring)
+### 13. [Willis Towers Watson](https://www.wtwco.com/): Green Algorithms (2024 Spring)
 Involved in mentoring a project focused on the environmental impact of AI at Willis Towers Watson. Guided the exploration of AI's energy consumption, green algorithms, and sustainable practices in AI applications.
+
+### 14. [Coforge](https://www.coforge.com/) AI Project: Intelligent Software Testing (2023 Fall)
+Mentored a team tackling Coforge's challenge in evolving their software testing strategy using AI/ML. Guided students in analyzing historical tools, current AI/ML landscapes, and future potential in autonomous software testing.
+
+### 15. AR/VR in Connected Living Technology Insurance (2023 Fall)
+Facilitated a project aiming to improve [Assurant](https://www.assurant.com/)'s Connected Living services through AR/VR. Oversaw the team's exploration of the customer journey and market potential, focusing on integrating AR/VR for enhanced serviceability.
+
+### 16. Enhancing Plasma Donors' Experiences at [CSL Behring](https://www.csl.com/) (2023 Fall)
+Advised students examining the plasma donation process at CSL Behring, with a goal to enhance donor experiences. Guided research and analysis on the journey of new and repeat donors, identifying key improvement opportunities.
+
+### 17. [Ricoh](https://www.ricoh.com/): AI Strategy (2023 Fall)
+Mentored a project at Ricoh to enhance its strategic framework for AI integration in digital services. Guided the assessment of market trends, stakeholder insights, and technology infrastructure to develop an AI integration strategy.
+
+
