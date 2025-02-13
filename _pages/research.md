@@ -96,6 +96,7 @@ classes: wide
 - Pacific Symposium on Biocomputing
 - Annual Conference of the Society for Human Sentence Processing (HSP)
 - American Psychological Association (APA)
+- BioData Mining
 
 <br/>
 
