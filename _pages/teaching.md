@@ -34,6 +34,11 @@ classes: wide
 ### University of Pennsylvania, The Wharton School
 
 - **MGMT 8920 Advanced Study Program - Collaborative Innovation Program**
+  - **Semester:** Spring 2025
+  - **Role:** Teaching Assistant for three project teams (MBA/WEMBA students)
+  - **Professor:** Xu (Henry) Han
+
+- **MGMT 8920 Advanced Study Program - Collaborative Innovation Program**
   - **Semester:** Fall 2024
   - **Role:** Teaching Assistant for four project teams (MBA/WEMBA students)
   - **Professor:** Scott Snyder
