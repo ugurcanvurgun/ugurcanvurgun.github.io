@@ -120,7 +120,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://www.med.upenn.edu/apps/faculty/index.php/g275/p9199700"
     - label: "𝕏"
-      icon: "fab fa-fw fa-X-square"
+      icon: "fas fa-fw fa-link"
       url: "https://twitter.com/ugurcan_vurgun"
     #- label: "Facebook"
      # icon: "fab fa-fw fa-facebook-square"
@@ -135,8 +135,8 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "𝕏"
+      icon: "fas fa-fw fa-link"
       url: https://twitter.com/ugurcan_vurgun
     #- label: "Facebook"
      # icon: "fab fa-fw fa-facebook-square"
