@@ -91,6 +91,7 @@ classes: wide
 ## **Reviewing**
 
 - Folia Linguistica
+- Association for Computational Linguistics (ACL Rolling Review)
 - The Annual Conference of Cognitive Science Society (CogSci)
 - Journal of Clinical and Translational Science
 - Pacific Symposium on Biocomputing
