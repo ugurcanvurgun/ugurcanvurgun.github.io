@@ -33,7 +33,7 @@ classes: wide
 ## Presentations
 
 - **Vurgun, U.**, Ji, Y., & Papafragou, A. (2025). (A)telic Diversity: Evidence from a Novel Meaning Categorization Task. Poster presentation at the 38th Annual Conference on Human Sentence Processing, University of Maryland, College Park, USA.
-- 
+
 - **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024).  Detecting event construal shifts in aspectual coercion. Oral presentation at the 46th Annual Meeting of the Cognitive Science Society, Rotterdam, Netherlands. 
 
 - **Vurgun, U.**, Heesu, Y., Landau, B., & Trueswell, J. (2024).  Real-time processing of symmetrical predicates: Semantic categorization over time. Poster presentation at the 46th Annual Meeting of the Cognitive Science Society, Rotterdam, Netherlands. 
