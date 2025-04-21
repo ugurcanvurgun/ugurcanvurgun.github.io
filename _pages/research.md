@@ -92,14 +92,16 @@ classes: wide
 
 ## **Reviewing**
 
-- Folia Linguistica
 - Association for Computational Linguistics (ACL Rolling Review)
-- The Annual Conference of Cognitive Science Society (CogSci)
+- JACC: CardioOncology (Journal of the American College of Cardiology (JACC))
 - Journal of Clinical and Translational Science
 - Pacific Symposium on Biocomputing
-- Annual Conference of the Society for Human Sentence Processing (HSP)
-- American Psychological Association (APA)
 - BioData Mining
+- American Psychological Association (APA)
+- The Annual Conference of Cognitive Science Society (CogSci)
+- Annual Conference of the Society for Human Sentence Processing (HSP)
+- Folia Linguistica
+
 
 <br/>
 
