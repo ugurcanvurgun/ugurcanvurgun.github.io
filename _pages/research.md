@@ -10,8 +10,6 @@ classes: wide
 
 ## Publications
 
-- **Vurgun, U.**, Kaviyarasu, A., Hwang, S., Acevedo, A., Abella, B. S., Mitchell, O., & Mowery, D. L. (2024). Reliability in AI-assisted critical care: Assessing large language model robustness and instruction following for cardiac arrest identification. AIM-FM: Advancements In Medical Foundation Models: Explainability, Robustness, Security, and Beyond Workshop. 38th Conference on Neural Information Processing Systems (NeurIPS 2024).
-
 -  **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024). Aspectual processing shifts visual event apprehension. *Cognitive Science, 48*(6), e13476. [https://doi.org/10.1111/cogs.13476](https://doi.org/10.1111/cogs.13476)
 
 - Li, C., Mowery, D. L., Ma, X., Yang, R., **Vurgun, U.**, Hwang, S., Donnelly, H. K., Bandhey, H., Akhtar, Z., Senathirajah, Y., Sadhu, E. M., Getzen, E., Freda, P. J., Long, Q., Becich, M. J. (2024). Realizing the potential of social determinants data: A scoping review of approaches for screening, linkage, extraction, analysis, and interventions. *Journal of Clinical and Translational Science*.
@@ -33,6 +31,8 @@ classes: wide
 ## Presentations
 
 - **Vurgun, U.**, Ji, Y., & Papafragou, A. (2025). (A)telic Diversity: Evidence from a Novel Meaning Categorization Task. Poster presentation at the 38th Annual Conference on Human Sentence Processing, University of Maryland, College Park, USA.
+
+- **Vurgun, U.**, Kaviyarasu, A., Hwang, S., Acevedo, A., Abella, B. S., Mitchell, O., & Mowery, D. L. (2024). Reliability in AI-assisted critical care: Assessing large language model robustness and instruction following for cardiac arrest identification. AIM-FM: Advancements In Medical Foundation Models: Explainability, Robustness, Security, and Beyond Workshop. 38th Conference on Neural Information Processing Systems (NeurIPS 2024).
 
 - **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024).  Detecting event construal shifts in aspectual coercion. Oral presentation at the 46th Annual Meeting of the Cognitive Science Society, Rotterdam, Netherlands. 
 
