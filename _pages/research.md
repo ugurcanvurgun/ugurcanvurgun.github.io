@@ -10,10 +10,6 @@ classes: wide
 
 ## Publications
 
--  **Vurgun, U.**, Cho, S., Fusaroli, R., Pelella, M. R., Knox, A., Hauptmann, A., Covello, M., Madya, M., Lyons, M., Lee, A., Fulop, L., Russell, A., Hicks, G., Fiumara, J., Pandey, J., Tunç, B., Sariyanidi, E., Liberman, M., Schultz, R. T., & Parish-Morris, J. (May, 2025). Sex-Specific Clustering in Autism: Implications for Female Identification and Assessment. Poster presentation at International Society for Autism Research Annual Meeting (INSAR 2025), Seattle, Washington.
-
--  Cho, S., **Vurgun, U.**, Fusaroli, R., Pelella, M. R., Knox, A., Hauptmann, A., Covello, M., Madya, M., Lyons, M., Lee, A., Fulop, L., Russell, A., Hicks, G., Fiumara, J., Pandey, J., Tunç, B., Sariyanidi, E., Liberman, M., Schultz, R. T., & Parish-Morris, J. (May, 2025). "Taking the temperature" of natural conversations in autism plus ADHD: a trans diagnostic sentiment analysis. Poster presentation at International Society for Autism Research Annual Meeting (INSAR 2025), Seattle, Washington. 
-
 -  **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024). Aspectual processing shifts visual event apprehension. *Cognitive Science, 48*(6), e13476. [https://doi.org/10.1111/cogs.13476](https://doi.org/10.1111/cogs.13476)
 
 - Li, C., Mowery, D. L., Ma, X., Yang, R., **Vurgun, U.**, Hwang, S., Donnelly, H. K., Bandhey, H., Akhtar, Z., Senathirajah, Y., Sadhu, E. M., Getzen, E., Freda, P. J., Long, Q., Becich, M. J. (2024). Realizing the potential of social determinants data: A scoping review of approaches for screening, linkage, extraction, analysis, and interventions. *Journal of Clinical and Translational Science*.
@@ -33,6 +29,10 @@ classes: wide
 - **Vurgun, U.**, Ji, Y., & Papafragou, A. (2022).  Linguistic aspect constrains event apprehension. Proceedings from the 44th Annual Meeting of the Cognitive Science Society. 
 
 ## Presentations
+
+-  **Vurgun, U.**, Cho, S., Fusaroli, R., Pelella, M. R., Knox, A., Hauptmann, A., Covello, M., Madya, M., Lyons, M., Lee, A., Fulop, L., Russell, A., Hicks, G., Fiumara, J., Pandey, J., Tunç, B., Sariyanidi, E., Liberman, M., Schultz, R. T., & Parish-Morris, J. (May, 2025). Sex-Specific Clustering in Autism: Implications for Female Identification and Assessment. Poster presentation at International Society for Autism Research Annual Meeting (INSAR 2025), Seattle, Washington.
+
+-  Cho, S., **Vurgun, U.**, Fusaroli, R., Pelella, M. R., Knox, A., Hauptmann, A., Covello, M., Madya, M., Lyons, M., Lee, A., Fulop, L., Russell, A., Hicks, G., Fiumara, J., Pandey, J., Tunç, B., Sariyanidi, E., Liberman, M., Schultz, R. T., & Parish-Morris, J. (May, 2025). "Taking the temperature" of natural conversations in autism plus ADHD: a trans diagnostic sentiment analysis. Poster presentation at International Society for Autism Research Annual Meeting (INSAR 2025), Seattle, Washington. 
 
 - **Vurgun, U.**, Ji, Y., & Papafragou, A. (2025). (A)telic Diversity: Evidence from a Novel Meaning Categorization Task. Poster presentation at the 38th Annual Conference on Human Sentence Processing, University of Maryland, College Park, USA.
 
