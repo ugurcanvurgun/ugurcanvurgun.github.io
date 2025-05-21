@@ -19,13 +19,13 @@ In the [Mack Institute](https://mackinstitute.wharton.upenn.edu/)'s [Collaborati
 
 
 ### 1. [Ricoh Digital Services](https://www.ricoh.com/): AI Platform Engineering (2025 Spring)
-Mentoring a team exploring AI applications in platform engineering, focusing on reducing complexity and improving operational efficiency. The project involves evaluating AI tools like Kubiya.ai, analyzing their impact on DevOps processes, and developing a roadmap for AI integration in platform operations.
+Mentored a team exploring AI applications in platform engineering, focusing on reducing complexity and improving operational efficiency. The project involves evaluating AI tools like Kubiya.ai, analyzing their impact on DevOps processes, and developing a roadmap for AI integration in platform operations.
 
 ### 2. [Children's Hospital of Philadelphia](https://www.chop.edu/): Revenue Diversification Strategy (2025 Spring)
-Guiding a team in exploring new revenue diversification opportunities for CHOP's clinical services. The project focuses on developing evaluation frameworks, conducting market analysis, and creating business cases for new revenue streams to address healthcare margin pressures.
+Guided a team in exploring new revenue diversification opportunities for CHOP's clinical services. The project focuses on developing evaluation frameworks, conducting market analysis, and creating business cases for new revenue streams to address healthcare margin pressures.
 
 ### 3. [Industrias Guidi](https://www.industriasguidi.com.ar/): Market Diversification Strategy (2025 Spring)
-Mentoring a project focused on exploring product and market diversification strategies for this Argentine auto parts manufacturer. The team is investigating new technologies, markets, and AI applications to reduce customer concentration and enhance operational capabilities.
+Mentored a project focused on exploring product and market diversification strategies for this Argentine auto parts manufacturer. The team is investigating new technologies, markets, and AI applications to reduce customer concentration and enhance operational capabilities.
 
 ### Previous Projects
 
