@@ -128,9 +128,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ugurcanvurgun"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/ugurcanvurgun/"
+    #- label: "LinkedIn"
+     # icon: "fab fa-linkedin"
+      # url: "https://www.linkedin.com/in/ugurcanvurgun/"
 
 # Site Footer
 footer:
