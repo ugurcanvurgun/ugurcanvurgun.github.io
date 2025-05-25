@@ -11,8 +11,6 @@ classes: wide
 
 Here is <a href="/assets/images/Vurgun_Ugurcan_CV.pdf">my academic CV</a>. Please reach out to me at ugurcan.vurgun[at]pennmedicine.upenn.edu if you have any questions.
 
-Please refer to <a href="https://www.linkedin.com/in/ugurcanvurgun/">my profile on LinkedIn</a> for my professional background.
-
 <br/>
 
 <div style="text-align:center;">
