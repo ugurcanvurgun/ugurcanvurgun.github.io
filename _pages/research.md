@@ -20,6 +20,8 @@ classes: wide
 
 ## Conference Proceedings
 
+- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2025).  Mapping between telicity and event representations. Proceedings from the 47th Annual Meeting of the Cognitive Science Society. 
+
 - **Vurgun, U.**, Ji, Y., & Papafragou, A. (2024).  Detecting event construal shifts in aspectual coercion. Proceedings from the 46th Annual Meeting of the Cognitive Science Society. 
 
 - **Vurgun, U.**, Heesu, Y., Landau, B., & Trueswell, J. (2024).  Real-time processing of symmetrical predicates: Semantic categorization over time. Proceedings from the 46th Annual Meeting of the Cognitive Science Society. 
@@ -29,6 +31,8 @@ classes: wide
 - **Vurgun, U.**, Ji, Y., & Papafragou, A. (2022).  Linguistic aspect constrains event apprehension. Proceedings from the 44th Annual Meeting of the Cognitive Science Society. 
 
 ## Presentations
+
+- **Vurgun, U.**, Ji, Y., & Papafragou, A. (2025). Mapping between telicity and event representations. Poster presentation at the 47th Annual Meeting of the Cognitive Science Society, San Francisco, California. 
 
 -  **Vurgun, U.**, Cho, S., Fusaroli, R., Pelella, M. R., Knox, A., Hauptmann, A., Covello, M., Madya, M., Lyons, M., Lee, A., Fulop, L., Russell, A., Hicks, G., Fiumara, J., Pandey, J., Tunç, B., Sariyanidi, E., Liberman, M., Schultz, R. T., & Parish-Morris, J. (May, 2025). Sex-Specific Clustering in Autism: Implications for Female Identification and Assessment. Poster presentation at International Society for Autism Research Annual Meeting (INSAR 2025), Seattle, Washington.
 
