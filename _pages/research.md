@@ -36,7 +36,7 @@ classes: wide
 
 -  **Vurgun, U.**, Cho, S., Fusaroli, R., Pelella, M. R., Knox, A., Hauptmann, A., Covello, M., Madya, M., Lyons, M., Lee, A., Fulop, L., Russell, A., Hicks, G., Fiumara, J., Pandey, J., Tunç, B., Sariyanidi, E., Liberman, M., Schultz, R. T., & Parish-Morris, J. (May, 2025). Sex-Specific Clustering in Autism: Implications for Female Identification and Assessment. Poster presentation at International Society for Autism Research Annual Meeting (INSAR 2025), Seattle, Washington.
 
--  Cho, S., **Vurgun, U.**, Fusaroli, R., Pelella, M. R., Knox, A., Hauptmann, A., Covello, M., Madya, M., Lyons, M., Lee, A., Fulop, L., Russell, A., Hicks, G., Fiumara, J., Pandey, J., Tunç, B., Sariyanidi, E., Liberman, M., Schultz, R. T., & Parish-Morris, J. (May, 2025). "Taking the temperature" of natural conversations in autism plus ADHD: a trans diagnostic sentiment analysis. Poster presentation at International Society for Autism Research Annual Meeting (INSAR 2025), Seattle, Washington. 
+-  Cho, S., **Vurgun, U.**, Fusaroli, R., Pelella, M. R., Knox, A., Hauptmann, A., Covello, M., Madya, M., Lyons, M., Lee, A., Fulop, L., Russell, A., Hicks, G., Fiumara, J., Pandey, J., Tunç, B., Sariyanidi, E., Liberman, M., Schultz, R. T., & Parish-Morris, J. (May, 2025). "Taking the temperature" of natural conversations in Autism plus ADHD: a trans diagnostic sentiment analysis. Poster presentation at International Society for Autism Research Annual Meeting (INSAR 2025), Seattle, Washington. 
 
 - **Vurgun, U.**, Ji, Y., & Papafragou, A. (2025). (A)telic Diversity: Evidence from a Novel Meaning Categorization Task. Poster presentation at the 38th Annual Conference on Human Sentence Processing, University of Maryland, College Park, USA.
 
