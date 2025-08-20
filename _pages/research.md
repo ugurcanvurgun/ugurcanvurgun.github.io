@@ -104,6 +104,7 @@ classes: wide
 - JACC: CardioOncology (Journal of the American College of Cardiology (JACC))
 - Journal of Clinical and Translational Science
 - Pacific Symposium on Biocomputing
+- AI and Machine Learning in Clinical Medicine:​​ Bridging or Separating Model Intelligence and Human Expertise (Pacific Symposium on Biocomputing)
 - BioData Mining
 - American Psychological Association (APA)
 - The Annual Conference of Cognitive Science Society (CogSci)
