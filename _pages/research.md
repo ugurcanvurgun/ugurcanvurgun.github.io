@@ -32,6 +32,8 @@ classes: wide
 
 ## Presentations
 
+-  Ketchem, C. J., **Vurgun, U.**, Wang, A., Thomas, S., Batugo, A., Falk, G. W., Lynch, K. L., Dellon, E. S., Mowery, D. L., & Lewis, J. D. (2025). Large language models combined with a single diagnostic code detect eosinophilic esophagitis in electronic health records with high accuracy. *American Journal of Gastroenterology*, Abstract P2739. Presented at the American College of Gastroenterology Annual Scientific Meeting, Phoenix, AZ.
+
 - **Vurgun, U.**, Ji, Y., & Papafragou, A. (2025). Mapping between telicity and event representations. Poster presentation at the 47th Annual Meeting of the Cognitive Science Society, San Francisco, California. 
 
 -  **Vurgun, U.**, Cho, S., Fusaroli, R., Pelella, M. R., Knox, A., Hauptmann, A., Covello, M., Madya, M., Lyons, M., Lee, A., Fulop, L., Russell, A., Hicks, G., Fiumara, J., Pandey, J., Tunç, B., Sariyanidi, E., Liberman, M., Schultz, R. T., & Parish-Morris, J. (May, 2025). Sex-Specific Clustering in Autism: Implications for Female Identification and Assessment. Poster presentation at International Society for Autism Research Annual Meeting (INSAR 2025), Seattle, Washington.
