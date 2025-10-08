@@ -30,22 +30,22 @@ Mentored a project focused on exploring product and market diversification strat
 ### Previous Projects
 
 ### 4. [TD Bank](https://www.td.com/): Social Impact Platform (2024 Fall)
-Guiding a team in developing a digital platform that revolutionizes philanthropic giving. The project focuses on creating an ETF-like experience for social causes, enabling users to discover and engage with volunteer opportunities and donation options tailored to their interests and values.
+Guided a team in developing a digital platform that revolutionizes philanthropic giving. The project focuses on creating an ETF-like experience for social causes, enabling users to discover and engage with volunteer opportunities and donation options tailored to their interests and values.
 
 ### 5. [Ricoh 3D](https://www.ricoh-usa.com/en/industries/healthcare/3d-for-healthcare): Healthcare Market Analysis (2024 Fall)
-Leading a comprehensive analysis of surgical procedures suitable for anatomic modeling, helping Ricoh 3D for Healthcare optimize their market approach. The project involves detailed research of surgical procedures, market size analysis, and identification of key hospitals and surgeons.
+Led a comprehensive analysis of surgical procedures suitable for anatomic modeling, helping Ricoh 3D for Healthcare optimize their market approach. The project involves detailed research of surgical procedures, market size analysis, and identification of key hospitals and surgeons.
 
 ### 6. [Tigo](https://www.tigo.com/): Customer Behavior Analysis (2024 Fall)
-Mentoring a team analyzing purchasing behavior and developing pricing strategies for Tigo's telecommunications services in Latin America. The project focuses on identifying customer segments, analyzing demand patterns, and creating differentiated pricing strategies.
+Mentored a team analyzing purchasing behavior and developing pricing strategies for Tigo's telecommunications services in Latin America. The project focuses on identifying customer segments, analyzing demand patterns, and creating differentiated pricing strategies.
 
 ### 7. [Willis Towers Watson](https://www.wtwco.com/): Startup Innovation Analysis (2024 Fall)
-Overseeing a project examining how "As a service" business models and startup ecosystems are reshaping various industries. The team is analyzing successful startups, operating models, and innovation patterns to identify high-growth potential companies.
+Oversaw a project examining how "As a service" business models and startup ecosystems are reshaping various industries. The team is analyzing successful startups, operating models, and innovation patterns to identify high-growth potential companies.
 
 ### 8. [Raymond Corporation](https://www.raymondcorp.com/): RetroLifts Innovation (2024 Fall)
-Guiding a project focused on transforming manual forklifts into autonomous systems through RetroLifts technology. The team is exploring cost-effective solutions for warehouse automation and analyzing the potential impact on operational efficiency.
+Guided a project focused on transforming manual forklifts into autonomous systems through RetroLifts technology. The team is exploring cost-effective solutions for warehouse automation and analyzing the potential impact on operational efficiency.
 
 ### 9. [Penn Dental Medicine](https://www.dental.upenn.edu/): Dental Innovation (2024 Fall)
-Leading a team developing an innovative robotic dental device for professional and consumer use. The project encompasses market research, product development, and commercialization strategy for advanced dental care solutions.
+Mentored a team developing an innovative robotic dental device for professional and consumer use. The project encompasses market research, product development, and commercialization strategy for advanced dental care solutions.
 
 ### 10. [Tigo](https://www.tigo.com/): Connected Strategy for Telecom Wholesale Business (2024 Spring)
 Mentored a project with Tigo, focusing on a connected strategy in the Telecom Wholesale Business. Oversaw the exploration of market segmentation, automation opportunities, and improving internal processes.
