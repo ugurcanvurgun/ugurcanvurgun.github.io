@@ -8,7 +8,7 @@ We are presenting a poster at the American College of Gastroenterology (ACG) Ann
 
 <div style="text-align:center;">
     <a href="https://acg2025.eventscribe.net/index.asp">
-        <img src="/assets/images/acg2025-logo.png" alt="ACG 2025" style="width:40%; height:auto;"/>
+        <img src="/assets/images/acg2025-logo.png" alt="ACG 2025" style="width:100%; height:auto;"/>
     </a>
 </div>
 
