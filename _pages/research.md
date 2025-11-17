@@ -104,6 +104,7 @@ classes: wide
 
 - Association for Computational Linguistics (ACL Rolling Review)
 - JACC: CardioOncology (Journal of the American College of Cardiology (JACC))
+- Psycho-Oncology: Journal of the Psychological, Social and Behavioral Dimensions of Cancer
 - Journal of Clinical and Translational Science
 - Pacific Symposium on Biocomputing
 - AI and Machine Learning in Clinical Medicine:​​ Bridging or Separating Model Intelligence and Human Expertise (Pacific Symposium on Biocomputing)
