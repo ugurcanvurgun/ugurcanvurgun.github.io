@@ -40,6 +40,4 @@ We are presenting a poster at the American College of Gastroenterology (ACG) Ann
 - Reducing manual chart review burden in clinical research
 - Scalable EHR-based phenotyping strategies
 
-The corresponding manuscript has also been submitted to *Clinical Gastroenterology and Hepatology* for peer review. 
-
 If you're interested in this research or potential collaborations in AI applications for gastroenterology, please don't hesitate to reach out.
