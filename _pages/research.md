@@ -103,6 +103,7 @@ classes: wide
 ## **Reviewing**
 
 - Association for Computational Linguistics (ACL Rolling Review)
+- American Medical Informatics Association (AMIA) – Amplify Informatics Conference
 - JACC: CardioOncology (Journal of the American College of Cardiology (JACC))
 - Psycho-Oncology: Journal of the Psychological, Social and Behavioral Dimensions of Cancer
 - Journal of Clinical and Translational Science
