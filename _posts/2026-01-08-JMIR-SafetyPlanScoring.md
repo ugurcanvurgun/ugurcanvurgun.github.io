@@ -28,7 +28,7 @@ Megan E Reilly, Haitisha Mehta, Christa Labouliere, Maria A Oquendo, David Mande
 
 Safety plans are a core part of suicide prevention, but reviewing their quality is time‑consuming and hard to scale. In this study, we built and evaluated an automated **Safety Plan Fidelity Rater (SPFR)** that uses large language models (LLMs) to score written safety plans.
 
-## Data and approach (brief)
+## Data and approach
 
 - 266 de‑identified outpatient safety plans from New York State  
 - Focused on four steps:  
