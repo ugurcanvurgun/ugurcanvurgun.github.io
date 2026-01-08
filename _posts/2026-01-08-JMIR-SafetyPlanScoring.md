@@ -8,7 +8,7 @@ Our team has a new paper out in **JMIR Mental Health**, published on **January 8
 
 <div style="text-align:center;">
   <a href="https://mental.jmir.org/2026/1/e79010">
-    <img src="/assets/images/JMIR-logo.png" alt="JMIR Mental Health" style="width:100%; height:auto;"/>
+    <img src="/assets/images/JMIR_logo.png" alt="JMIR Mental Health" style="width:100%; height:auto;"/>
   </a>
 </div>
 
