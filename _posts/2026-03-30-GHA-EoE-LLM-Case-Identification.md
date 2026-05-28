@@ -14,7 +14,7 @@ I’m excited to share that our manuscript on **LLM-based case identification fo
 Corey J Ketchem, **Ugurcan Vurgun**, Agnes Wang, Sunil Thomas, Ashley Batugo, John E Pandolfino,  
 Gary W Falk, Kristle L Lynch, Evan S Dellon, Danielle L Mowery, James D Lewis
 
-**Journal:** *Gastro Hep Advances* (in press)
+**Journal:** [*Gastro Hep Advances*](https://www.ghadvances.org/article/S2772-5723(26)00092-0/fulltext) (in press)
 
 ## Summary
 
