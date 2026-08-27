@@ -9,7 +9,7 @@ classes: wide
 ---
 
 
-Here is <a href="/assets/images/Vurgun_Ugurcan_CV.pdf">my academic CV</a>. Please reach out to me at ugurcan.vurgun[at]pennmedicine.upenn.edu if you have any questions.
+Here is <a href="/assets/images/Vurgun_Ugurcan_CV.pdf">my academic CV</a>. Please reach out to me at ugurcan.vurgun[at]gmail.com if you have any questions.
 
 <br/>
 
