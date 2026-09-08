@@ -107,6 +107,7 @@ classes: wide
 - JACC: CardioOncology (Journal of the American College of Cardiology (JACC))
 - Psycho-Oncology: Journal of the Psychological, Social and Behavioral Dimensions of Cancer
 - Journal of Clinical and Translational Science
+- Allergy: The official journal of the European Academy of Allergy and Clinical Immunology (EAACI)
 - Pacific Symposium on Biocomputing
 - AI and Machine Learning in Clinical Medicine:​​ Bridging or Separating Model Intelligence and Human Expertise (Pacific Symposium on Biocomputing)
 - BioData Mining
