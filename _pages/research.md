@@ -105,6 +105,7 @@ classes: wide
 - Association for Computational Linguistics (ACL Rolling Review)
 - American Medical Informatics Association (AMIA) – Amplify Informatics Conference
 - JACC: CardioOncology (Journal of the American College of Cardiology (JACC))
+- Open Mind: Discoveries in Cognitive Science 
 - Psycho-Oncology: Journal of the Psychological, Social and Behavioral Dimensions of Cancer
 - Journal of Clinical and Translational Science
 - Allergy: The official journal of the European Academy of Allergy and Clinical Immunology (EAACI)
